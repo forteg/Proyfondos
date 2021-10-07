@@ -1,0 +1,276 @@
+{
+  "fondo": {
+    "nombre": "SCOTQNT",
+    "url": "https://scotiabankfiles.azureedge.net/scotia-bank-mexico/spanish/pdf/personas/fondos-de-inversion/prospectos/Prospecto_SCOTQNT.pdf",
+    "razon_social": {
+      "valor": "SCOTIA DINAMICO, S.A. DE C.V.Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20190607"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Scotia Fondos, S.A. DE C.V., Sociedad Operadora de Fondos de Inversión, Grupo Financiero Scotiabank Inverlat",
+      "valor": 8
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No se tiene plazo mínimo de permanencia"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "David Jaime Valle"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL(RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "14:00 hrs."
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "C1E",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "FONDOS DE INVERSIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTC1E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "2.31"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBE",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.50"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTFBE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBF",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.50"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTFBF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBM",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.50"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTFBM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBX",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.50"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS EXTRANJERAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTFBX",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "II0",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles adquirientes": {
+          "valor": "GESTIÓN DE INVERSIÓN ADMINISTRADA POR LA MISMA SOCIEDAD OPERADORA"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTII0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "L",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "2.01"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTL",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "2.01"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "S",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.51"
+        },
+        "posibles adquirientes": {
+          "valor": "EMPLEADOS DEL GRUPO FINANCIERO SCOTIABANK"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTS",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "2.00"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS EXTRANJERAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTQNTX",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

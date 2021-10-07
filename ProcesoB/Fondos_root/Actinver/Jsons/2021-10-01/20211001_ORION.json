@@ -1,0 +1,171 @@
+{
+  "fondo": {
+    "nombre": "ORION",
+    "url": "https://www.actinver.com//cs/groups/public/documents/fondosdeinversion/ywn0/mdq0/~edisp/act044049.pdf",
+    "razon_social": {
+      "valor": "Operadora Actinver, S.A. de C.V., Sociedad  Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)."
+    },
+    "fecha_autorizacion": {
+      "valor": "20210330"
+    },
+    "tipo": {
+      "valor": "INSTRUMENTO DE DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)",
+      "valor": 2
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Mensual"
+    },
+    "permanencia": {
+      "valor": "Un día hábil"
+    },
+    "calificacion_mercado": {
+      "valor": "AA/3"
+    },
+    "director": {
+      "valor": "Diego Tarrats Guerrero"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL(IDDIS)"
+    },
+    "horario_cierre": {
+      "valor": "13:45"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "M-5",
+        "monto_minimo": {
+          "valor": "$500,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.16"
+        },
+        "comision_fondo": {
+          "valor": "0.94"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ORIONM-5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M-5",
+        "monto_minimo": {
+          "valor": "$500,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.16"
+        },
+        "comision_fondo": {
+          "valor": "0.94"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ORIONM-5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M-5",
+        "monto_minimo": {
+          "valor": "$500,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.16"
+        },
+        "comision_fondo": {
+          "valor": "0.94"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ORIONM-5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M-5",
+        "monto_minimo": {
+          "valor": "$500,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.16"
+        },
+        "comision_fondo": {
+          "valor": "0.94"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ORIONM-5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M-5",
+        "monto_minimo": {
+          "valor": "$500,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.16"
+        },
+        "comision_fondo": {
+          "valor": "0.94"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ORIONM-5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M-5",
+        "monto_minimo": {
+          "valor": "$500,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.16"
+        },
+        "comision_fondo": {
+          "valor": "0.94"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ORIONM-5",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

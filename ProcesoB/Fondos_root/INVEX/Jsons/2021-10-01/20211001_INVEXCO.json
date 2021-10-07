@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "INVEXCO",
+    "url": "https://www.invex.com/getmedia/174f201f-9395-45e4-9a79-ac0a7d8b4b11/Pros_Comp_INVEXCO?ext=.pdf",
+    "razon_social": {
+      "valor": "Z COB S.A. DE C.V. Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20181031"
+    },
+    "tipo": {
+      "valor": "Fondo de inversión en Instrumentos de Deuda.",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "INVEX Operadora S.A. de C.V. Sociedad Operadora de Fondos de Inversión INVEX Grupo Financiero.",
+      "valor": 18
+    },
+    "horizonte_inversion": {
+      "valor": "corto plazo"
+    },
+    "liquidez": {
+      "valor": "diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/5 "
+    },
+    "director": {
+      "valor": "José Rodolfo Campuzano Meza"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "CORTO PLAZO EN DÓLARES (IDCPDLL) INVEXCO"
+    },
+    "horario_cierre": {
+      "valor": "14:00"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BF",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.605"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas Mexicanas o Extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXCOBF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.605"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXCOBE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.605"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXCOBM",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

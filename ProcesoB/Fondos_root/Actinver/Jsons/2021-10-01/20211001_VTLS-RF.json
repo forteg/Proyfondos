@@ -1,0 +1,234 @@
+{
+  "fondo": {
+    "nombre": "VTLS-RF",
+    "url": "https://www.actinver.com//cs/groups/public/documents/document/dmvy/mza5/~edisp/actinver309042.pdf",
+    "razon_social": {
+      "valor": "Operadora Actinver, S.A. de C.V., Sociedad  Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)."
+    },
+    "fecha_autorizacion": {
+      "valor": "20210329"
+    },
+    "tipo": {
+      "valor": "INSTRUMENTO DE DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)",
+      "valor": 2
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "1 día hábil"
+    },
+    "calificacion_mercado": {
+      "valor": "AA/5"
+    },
+    "director": {
+      "valor": "Diego Tarrats Guerrero"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL(IDDIS)"
+    },
+    "horario_cierre": {
+      "valor": "13:45"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B-1",
+        "monto_minimo": {
+          "valor": "$ 1,000.00"
+        },
+        "monto_maximo": {
+          "valor": "19,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "1.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "VTLS-RFB-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-2",
+        "monto_minimo": {
+          "valor": "$ 20,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "49,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.94"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "VTLS-RFB-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-3",
+        "monto_minimo": {
+          "valor": "$ 50,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.84"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "VTLS-RFB-3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E-1",
+        "monto_minimo": {
+          "valor": "$ 10,000.00"
+        },
+        "monto_maximo": {
+          "valor": "19,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.84"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "VTLS-RFE-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E-2",
+        "monto_minimo": {
+          "valor": "$ 20,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "49,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "VTLS-RFE-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E-3",
+        "monto_minimo": {
+          "valor": "$ 50,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.74"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "VTLS-RFE-3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M-1",
+        "monto_minimo": {
+          "valor": "$ 10,000.00"
+        },
+        "monto_maximo": {
+          "valor": "19,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "1.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "VTLS-RFM-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M-2",
+        "monto_minimo": {
+          "valor": "$ 20,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "49,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.94"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "VTLS-RFM-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M-3",
+        "monto_minimo": {
+          "valor": "$ 50,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.84"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "VTLS-RFM-3",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "MPAGORF",
+    "url": "https://www.gbmfondos.com.mx/files/pdf/soluciones/fisicas/prospectos/Prospecto_MPAGORF.pdf?v=2633138202317625.5",
+    "razon_social": {
+      "valor": "MERCADO FONDO S.A. DE C.V. FONDO DE INVERSION EN INSTRUMENTOS DE DEUDA"
+    },
+    "fecha_autorizacion": {
+      "valor": "20190619"
+    },
+    "tipo": {
+      "valor": "fondo de inversión en instrumentos de deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "GBM Administradora de Activos S.A. de C.V. Sociedad Operadora de Fondos de Inversión",
+      "valor": 14
+    },
+    "horizonte_inversion": {
+      "valor": "Corto a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "N/A"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/1"
+    },
+    "director": {
+      "valor": "Fernando Castro Tapia"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Corto Plazo IDCP"
+    },
+    "horario_cierre": {
+      "valor": "13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B1",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MPAGORFB1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "MPAGORFB2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B3",
+        "monto_minimo": {
+          "valor": "$250’000,000.00 M.N."
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "MPAGORFB3",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

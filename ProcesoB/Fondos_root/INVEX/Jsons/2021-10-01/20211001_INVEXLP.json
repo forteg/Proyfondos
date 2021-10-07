@@ -1,0 +1,171 @@
+{
+  "fondo": {
+    "nombre": "INVEXLP",
+    "url": "https://www.invex.com/getmedia/6ac9ac7d-9338-41d6-9da2-79c4119a780a/Pros_Comp_INVEXLP?ext=.pdf",
+    "razon_social": {
+      "valor": "Z REF 2 S.A. DE C.V. Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": null
+    },
+    "tipo": {
+      "valor": "Fondo de inversión en Instrumentos de Deuda.",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "INVEX Operadora S.A. de C.V. Sociedad Operadora de Fondos de Inversión INVEX Grupo Financiero.",
+      "valor": 18
+    },
+    "horizonte_inversion": {
+      "valor": "largo plazo"
+    },
+    "liquidez": {
+      "valor": "diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/5 "
+    },
+    "director": {
+      "valor": "José Rodolfo Campuzano Meza"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "LARGO PLAZO GUBERNAMENTAL (IDLPGUB)"
+    },
+    "horario_cierre": {
+      "valor": "13:00"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BF1",
+        "monto_minimo": {
+          "valor": "Una acción "
+        },
+        "monto_maximo": {
+          "valor": " $4’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "1.100"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas Mexicanas o Extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXLPBF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF2",
+        "monto_minimo": {
+          "valor": "$5’000,000.00 "
+        },
+        "monto_maximo": {
+          "valor": " $9’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "1.100"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas Mexicanas o Extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXLPBF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF3",
+        "monto_minimo": {
+          "valor": "$10’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "1.100"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas Mexicanas o Extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXLPBF3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "Una acción "
+        },
+        "monto_maximo": {
+          "valor": " $9’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "1.100"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXLPBE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE2",
+        "monto_minimo": {
+          "valor": "$10’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "1.100"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXLPBE2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "1.100"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXLPBM",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,885 @@
+{
+  "fondo": {
+    "nombre": "VALMXRP",
+    "url": "https://www.valmex.com.mx/sites/default/files/2019-09/operadora_valmxrp_prospecto_de_informacion_2.pdf",
+    "razon_social": {
+      "valor": "FONDO VALMEX 11 DE RENTAS PROGRAMADAS, S.A. DE C.V., Fondo de Inversión en instrumentos de"
+    },
+    "fecha_autorizacion": {
+      "valor": "20180928"
+    },
+    "tipo": {
+      "valor": "Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Operadora Valmex de Fondos de Inversión, S.A. de C.V.",
+      "valor": 23
+    },
+    "horizonte_inversion": {
+      "valor": "largo plazo"
+    },
+    "liquidez": {
+      "valor": "Pago de Renta Programada trimestral (ver prospecto)"
+    },
+    "permanencia": {
+      "valor": "Depende de las políticas de compra y venta"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/3"
+    },
+    "director": {
+      "valor": "Ernesto Diez Sánchez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL (IDDIS)"
+    },
+    "horario_cierre": {
+      "valor": "13:00"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B1",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B10",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB10",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B11",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB11",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B12",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB12",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B13",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB13",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B14",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB14",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B15",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB15",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B16",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB16",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B17",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB17",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B18",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB18",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B19",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB19",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B20",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB20",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B21",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB21",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B22",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB22",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B23",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB23",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B24",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB24",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B25",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB25",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B26",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB26",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B27",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB27",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B28",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB28",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B29",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB29",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B3",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B30",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB30",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B31",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB31",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B32",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB32",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B33",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB33",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B34",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB34",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B35",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB35",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B36",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB36",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B37",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB37",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B38",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.9133"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB38",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B39",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.9131"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB39",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B4",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B40",
+        "monto_minimo": {
+          "valor": "200 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.9133"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB40",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B5",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B6",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB6",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B7",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB7",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B8",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB8",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B9",
+        "monto_minimo": {
+          "valor": "100 mil pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXRPB9",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

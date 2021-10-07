@@ -1,0 +1,129 @@
+{
+  "fondo": {
+    "nombre": "INVEXDO",
+    "url": "https://www.invex.com/getmedia/fec5166e-62e2-42e2-8b58-b71d2f02c14e/Prospecto-INVEXDO-rubricado?ext=.pdf",
+    "razon_social": {
+      "valor": "Z CAP 2 S.A. DE C.V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20181031"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión de Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "INVEX Operadora S.A. de C.V. Sociedad Operadora de Fondos de Inversión INVEX Grupo Financiero.",
+      "valor": 18
+    },
+    "horizonte_inversion": {
+      "valor": "mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene"
+    },
+    "calificacion_mercado": {
+      "valor": "-"
+    },
+    "director": {
+      "valor": "José Rodolfo Campuzano Meza"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "ESPECIALIZADO EN DEUDA"
+    },
+    "horario_cierre": {
+      "valor": "13:00"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BF1",
+        "monto_minimo": {
+          "valor": "Una acción "
+        },
+        "monto_maximo": {
+          "valor": " $9’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXDOBF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF2",
+        "monto_minimo": {
+          "valor": "$10’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXDOBF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "NA"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXDOBM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "NA"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXDOBE",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

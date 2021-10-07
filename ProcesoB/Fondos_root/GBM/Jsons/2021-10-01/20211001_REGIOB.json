@@ -1,0 +1,66 @@
+{
+  "fondo": {
+    "nombre": "REGIOB",
+    "url": "https://www.gbmfondos.com.mx/files/pdf/soluciones/fisicas/prospectos/Prospecto_REGIOB.pdf?v=2633138202317625.5",
+    "razon_social": {
+      "valor": "GBM PORTAFOLIO MODERADO S.A. DE C.V. FONDO DE INVERSIÓN DE RENTA VARIABLE"
+    },
+    "fecha_autorizacion": {
+      "valor": "20180824"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión de Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "GBM Administradora de Activos S.A de C.V. Sociedad Operadora de Fondos de Inversión",
+      "valor": 14
+    },
+    "horizonte_inversion": {
+      "valor": "Corto a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "N/A"
+    },
+    "calificacion_mercado": {
+      "valor": "NA"
+    },
+    "director": {
+      "valor": "Fernando Castro Tapia"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Mayoritariamente en valores de deuda a través de Fondos de Inversión RV D SI"
+    },
+    "horario_cierre": {
+      "valor": "13:00"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "REGIOBB",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

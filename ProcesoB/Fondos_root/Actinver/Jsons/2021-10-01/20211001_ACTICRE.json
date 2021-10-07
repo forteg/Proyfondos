@@ -1,0 +1,129 @@
+{
+  "fondo": {
+    "nombre": "ACTICRE",
+    "url": "https://www.actinver.com//cs/groups/public/documents/fondosdeinversion/ywn0/mdqz/~edisp/act043607.pdf",
+    "razon_social": {
+      "valor": "Operadora Actinver, S.A.de C.V., Sociedad  Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)."
+    },
+    "fecha_autorizacion": {
+      "valor": "20101215"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)",
+      "valor": 2
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "1 día hábil"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Rogelio Gallegos Morales"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL (RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "45 minutos antes del cierre del mercado Local"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "2.72"
+        },
+        "posibles_adquirientes": {
+          "valor": "P FÍSICAS Y MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTICREB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "D",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "2.57"
+        },
+        "posibles_adquirientes": {
+          "valor": "DISTRIBUIDORES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTICRED",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FF",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "FONDOS DE FONDOS"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTICREFF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "I",
+        "monto_minimo": {
+          "valor": "100,000,000"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.57"
+        },
+        "posibles_adquirientes": {
+          "valor": "P FÍSICAS Y MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTICREI",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "FINDE1",
+    "url": "https://scotiabankfiles.azureedge.net/scotia-bank-mexico/spanish/pdf/personas/fondos-de-inversion/prospectos/Prospecto_FINDE1.pdf",
+    "razon_social": {
+      "valor": "FINDE1, S.A. DE C.V.Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20150129"
+    },
+    "tipo": {
+      "valor": "INSTRUMENTO DE DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Scotia Fondos, S.A. DE C.V., Sociedad Operadora de Fondos de Inversión, Grupo Financiero Scotiabank Inverlat",
+      "valor": 8
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No se tiene plazo mínimo de permanencia"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/3"
+    },
+    "director": {
+      "valor": "David Jaime Valle"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "MEDIANO PLAZO(IDMP)"
+    },
+    "horario_cierre": {
+      "valor": "13:30 hrs."
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.17"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES EXENTAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINDE1E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.17"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINDE1F",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.17"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINDE1M",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

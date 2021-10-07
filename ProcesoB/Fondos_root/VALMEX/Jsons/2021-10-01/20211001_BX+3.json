@@ -1,0 +1,318 @@
+{
+  "fondo": {
+    "nombre": "BX+3",
+    "url": "https://www.valmex.com.mx/sites/default/files/2019-09/operadora_bx3_prospecto_de_informacion_0.pdf",
+    "razon_social": {
+      "valor": "Fondo Valmex 3, S.A. de C.V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20210208"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Operadora Valmex de Fondos de Inversión, S.A. de C.V.",
+      "valor": 23
+    },
+    "horizonte_inversion": {
+      "valor": "mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No hay plazo mínimo"
+    },
+    "calificacion_mercado": {
+      "valor": "No aplica"
+    },
+    "director": {
+      "valor": "Ernesto Diez Sánchez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL (RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "14:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B-E1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "2.1262"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Excentas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-E1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-E2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "4.1523"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Excentas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-E2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-E3",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.2000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Excentas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-E3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-F1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "4.7552"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas Nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-F1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-F2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.8000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas Nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-F2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-F3",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.6000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas Nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-F3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-F4",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.4000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas Nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-F4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-M1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.8000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Morales Nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-M1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-M2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.6000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Morales Nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-M2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-M3",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.4000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Morales Nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3B-M3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FF",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.1500"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas Nacionales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3FF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "S1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.8000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Instituciones de Seguros y Fianzas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3S1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "2.0000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Extranjeros"
+        },
+        "vigente": 1,
+        "clave_BMV": "BX+3X1",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "fondo": {
+    "nombre": "FT-MEXA",
+    "url": "https://www.franklintempleton.com.mx/download/es-mx/common/k3gsihd5/Templeton-Mexico-Fund-SA-DE-CV-FIRV-Prospecto.pdf",
+    "razon_social": {
+      "valor": "TEMPLETON MEXICO FUND, S.A. de C.V., Fondo de Inversión en Instrumentos de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20200214"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión de Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Franklin Templeton Asset Management México, S.A. de C.V. Sociedad Operadora de Fondos de Inversión",
+      "valor": 82
+    },
+    "horizonte_inversion": {
+      "valor": "largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No existe"
+    },
+    "calificacion_mercado": {
+      "valor": "No aplica"
+    },
+    "director": {
+      "valor": "Hugo Petricioli Castellón"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional Renta Variable  (RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "13:00 PM"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.0000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.0000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABE2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE3",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.0000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABE3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.3138"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.7714"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF3",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.4007"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABF3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF4",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.0000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABF4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF5",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "2.5641"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABF5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BFF",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.0000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de inversión de renta variable"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABFF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.2793"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.3707"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM3",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.0000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABM3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM4",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.7715"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-MEXABM4",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

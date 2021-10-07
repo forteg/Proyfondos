@@ -1,0 +1,507 @@
+{
+  "fondo": {
+    "nombre": "SCOT-FX",
+    "url": "https://scotiabankfiles.azureedge.net/scotia-bank-mexico/spanish/pdf/personas/fondos-de-inversion/prospectos/Prospecto_SCOT-FX.pdf",
+    "razon_social": {
+      "valor": "SCOTIA ESPECIALIZADO DEUDA MONEDA EXTRANJERA, S.A. DE C.V.  Fondo de Inversion en Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20191015"
+    },
+    "tipo": {
+      "valor": "Renta variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Scotia Fondos, S.A. DE C.V., Sociedad Operadora de Fondos de Inversión, Grupo Financiero Scotiabank Inverlat",
+      "valor": 8
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No se tiene plazo mínimo de permanencia"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "David Jaime Valle"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Renta variable especializado en deuda(RVESD)"
+    },
+    "horario_cierre": {
+      "valor": "10:00 hrs"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "C1E",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXC1E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CU1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": "$1,499,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.71"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXCU1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CU2",
+        "monto_minimo": {
+          "valor": "$1,500,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$4,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.42"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXCU2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CU3",
+        "monto_minimo": {
+          "valor": "$5,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$14,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.21"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXCU3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CU4",
+        "monto_minimo": {
+          "valor": "$15,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.96"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXCU4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.81"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F1",
+        "monto_minimo": {
+          "valor": "$0.0"
+        },
+        "monto_maximo": {
+          "valor": "$249,999,99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.20"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F2",
+        "monto_minimo": {
+          "valor": "$250,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$749,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.11"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F3",
+        "monto_minimo": {
+          "valor": "$750,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$1,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.03"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXF3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F4",
+        "monto_minimo": {
+          "valor": "$2,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$4,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.02"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXF4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F5",
+        "monto_minimo": {
+          "valor": "$5,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.81"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXF5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBE",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXFBE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBF",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXFBF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBM",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXFBM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "II0",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Gestión de inversión administrada por la misma socied"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXII0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": "$1,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.11"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M2",
+        "monto_minimo": {
+          "valor": "$2,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$4,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M3",
+        "monto_minimo": {
+          "valor": "$5,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$14,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.91"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXM3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M4",
+        "monto_minimo": {
+          "valor": "$15,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$24,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.81"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXM4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M5",
+        "monto_minimo": {
+          "valor": "$25,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.71"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXM5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "S",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.36"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas empleados del grupo financiero scotia"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXS",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.20"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-FXX",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

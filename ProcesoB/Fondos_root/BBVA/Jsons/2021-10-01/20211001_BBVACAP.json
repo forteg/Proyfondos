@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "BBVACAP",
+    "url": "https://portal.bbva.mx/siabinternet/Repositorio/import/doctos/analisis/00018047.pdf",
+    "razon_social": {
+      "valor": "Fondo BBVA Bancomer RV10, S.A. de C.V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20160912"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "BBVA Bancomer Gestión, S.A. de C.V. Sociedad Operadora de Fondos de Inversión, Grupo Financiero BBVA Bancomer.",
+      "valor": 6
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Captación: Diaria"
+    },
+    "permanencia": {
+      "valor": "El periodo de inversión del Fondo podría ser de hasta 14 años  Puede darse el caso de que se reduzca dicho periodo"
+    },
+    "calificacion_mercado": {
+      "valor": "N.A."
+    },
+    "director": {
+      "valor": "Erick Noel Rodríguez Jimarez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional - RVDIS"
+    },
+    "horario_cierre": {
+      "valor": "hasta dos horas antes del cierre del mercado"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "$100,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "1.27"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACAPE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "NC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.75"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACAPNC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "PV",
+        "monto_minimo": {
+          "valor": "$100,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "1.27"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACAPPV",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

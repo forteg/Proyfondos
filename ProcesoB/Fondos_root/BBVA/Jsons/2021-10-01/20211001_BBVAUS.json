@@ -1,0 +1,339 @@
+{
+  "fondo": {
+    "nombre": "BBVAUS",
+    "url": "https://portal.bbva.mx/siabinternet/Repositorio/import/doctos/analisis/00006658.pdf",
+    "razon_social": {
+      "valor": "Fondo BBVA Bancomer Diversificado Internacional, S.A. de C.V., Fondos de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20171208"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "BBVA Bancomer Gestión, S.A. de C.V. Sociedad Operadora de Fondos de Inversión, Grupo Financiero BBVA Bancomer.",
+      "valor": 6
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No aplica"
+    },
+    "calificacion_mercado": {
+      "valor": "N.A."
+    },
+    "director": {
+      "valor": "Erick Noel Rodríguez Jimarez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Especializada en acciones internacionales - RVESACCINT"
+    },
+    "horario_cierre": {
+      "valor": "hasta dos horas antes del cierre del mercado"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "4.20"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "C",
+        "monto_minimo": {
+          "valor": "$500,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "4.15"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "2.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "EX",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "2.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas residentes en el extranjero"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSEX",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.02"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de Inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FS",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de Inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSFS",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "GB",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.42"
+        },
+        "posibles_adquirientes": {
+          "valor": "Empleados y jubilados del grupo financiero"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSGB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "GPF",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Gestión Portafolios Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSGPF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "NC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.60"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSNC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "P",
+        "monto_minimo": {
+          "valor": "$1,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "3.55"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSP",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "PV",
+        "monto_minimo": {
+          "valor": "$15,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "2.37"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSPV",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "TM",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.24"
+        },
+        "posibles_adquirientes": {
+          "valor": "Gestión Portafolios Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSTM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "TNC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Gestión Portafolios Morales No sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSTNC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "UHN",
+        "monto_minimo": {
+          "valor": "$100,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "1.78"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAUSUHN",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

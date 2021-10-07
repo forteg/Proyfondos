@@ -1,0 +1,192 @@
+{
+  "fondo": {
+    "nombre": "ACTIPT4",
+    "url": "https://www.actinver.com//cs/groups/public/documents/fondosdeinversion/ywn0/mdq0/~edisp/act044056.pdf",
+    "razon_social": {
+      "valor": "Operadora Actinver, S.A. de C.V., Sociedad  Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)."
+    },
+    "fecha_autorizacion": {
+      "valor": "20190725"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)",
+      "valor": 2
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "1 día hábil"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Diego Tarrats Guerrero"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL (RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "45 min. antes del cierre del mercado de México"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIPT4M",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIPT4M",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIPT4M",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIPT4M",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIPT4M",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIPT4M",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIPT4M",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

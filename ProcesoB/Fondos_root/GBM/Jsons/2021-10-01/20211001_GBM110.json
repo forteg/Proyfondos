@@ -1,0 +1,213 @@
+{
+  "fondo": {
+    "nombre": "GBM110",
+    "url": "https://www.gbmfondos.com.mx/files/pdf/soluciones/fisicas/prospectos/Prospecto_GBM110.pdf?v=2633138202317625.5",
+    "razon_social": {
+      "valor": "GBM 110 S.A. DE C.V. FONDO DE INVERSION DE RENTA VARIABLE"
+    },
+    "fecha_autorizacion": {
+      "valor": "20210430"
+    },
+    "tipo": {
+      "valor": "fondo de inversión de renta variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "GBM Administradora de Activos S.A. de C.V.",
+      "valor": 14
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "N/A"
+    },
+    "calificacion_mercado": {
+      "valor": "NA"
+    },
+    "director": {
+      "valor": "Fernando Castro Tapia"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "especializada en renta variable"
+    },
+    "horario_cierre": {
+      "valor": "13:45"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BO",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas con residencia fondos de inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBM110BO",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBM110BM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales exentas de retención por pago de intereses"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBM110BE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BH",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos y cajas de ahorro"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBM110BH",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BX",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas y morales distinta a México"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBM110BX",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BFF",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de inversión administrados Administradora de Activos, S.A. de C.V., SOFI"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBM110BFF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BPF",
+        "monto_minimo": {
+          "valor": "$100’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas con residencia fondos de inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBM110BPF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BPM",
+        "monto_minimo": {
+          "valor": "$100’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBM110BPM",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

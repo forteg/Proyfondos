@@ -1,0 +1,129 @@
+{
+  "fondo": {
+    "nombre": "INVEXCP",
+    "url": "https://www.invex.com/getmedia/174f201f-9395-45e4-9a79-ac0a7d8b4b11/Pros_Comp_INVEXCO?ext=.pdf",
+    "razon_social": {
+      "valor": "Z REF 1 S.A. DE C.V. Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20181031"
+    },
+    "tipo": {
+      "valor": "Fondo de inversión en Instrumentos",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "INVEX Operadora S.A. de C.V. Sociedad Operadora de Fondos de Inversión INVEX Grupo Financiero.",
+      "valor": 18
+    },
+    "horizonte_inversion": {
+      "valor": "corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/1 "
+    },
+    "director": {
+      "valor": "José Rodolfo Campuzano Meza"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "CORTO PLAZO (IDCP)"
+    },
+    "horario_cierre": {
+      "valor": "13:00"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BF1",
+        "monto_minimo": {
+          "valor": "Una acción "
+        },
+        "monto_maximo": {
+          "valor": " $ 4’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.894"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXCPBF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF2",
+        "monto_minimo": {
+          "valor": "$5’000,000.00 "
+        },
+        "monto_maximo": {
+          "valor": " $9’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.894"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXCPBF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF3",
+        "monto_minimo": {
+          "valor": "$10’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.894"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXCPBF3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF4",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.894"
+        },
+        "posibles_adquirientes": {
+          "valor": "Empleados, directivos o consejeros"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXCPBF4",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

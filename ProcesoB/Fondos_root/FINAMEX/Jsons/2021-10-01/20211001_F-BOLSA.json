@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "F-BOLSA",
+    "url": "https://www.finamex.com.mx/Admin/Visualizar/Contenido/12996",
+    "razon_social": {
+      "valor": "FONDO ACCIONES FINAMEX, S.A. DE C.V., F.I.R.V."
+    },
+    "fecha_autorizacion": {
+      "valor": "20210813"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "FINAMEX INVERSIONES, S.A. DE C.V., SOCIEDAD OPERADORA DE FONDOS DE INVERSIÓN",
+      "valor": 22
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "3 días hábiles."
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Luis Alberto Benavides Simón"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "ESPECIALIZADO EN RENTA VARIABLE"
+    },
+    "horario_cierre": {
+      "valor": "14:00 horas"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "2.56"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "F-BOLSABE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "2.56"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "F-BOLSABF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "2.56"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "F-BOLSABM",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

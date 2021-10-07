@@ -1,0 +1,129 @@
+{
+  "fondo": {
+    "nombre": "GBMF2",
+    "url": "https://www.gbmfondos.com.mx/files/pdf/soluciones/fisicas/prospectos/Prospecto_GBMF2.pdf?v=2633138202317625.5",
+    "razon_social": {
+      "valor": "GBM FONDO DE CORTO PLAZO  S.A. DE C.V. SOCIEDAD DE INVERSION EN INSTRUMENTOS DE DEUDA"
+    },
+    "fecha_autorizacion": {
+      "valor": "20140827"
+    },
+    "tipo": {
+      "valor": "Sociedad de Inversión en Instrumentos de Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "GBM Administradora de Activos, S.A. de C.V.,Sociedad Operadora de Fondos de Inversión",
+      "valor": 14
+    },
+    "horizonte_inversion": {
+      "valor": "Corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "El plazo mínimo de permanencia estará determinado por la operatividad del Fondo "
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/1"
+    },
+    "director": {
+      "valor": "Fernando Castro Tapia"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "IDCP Corto Plazo"
+    },
+    "horario_cierre": {
+      "valor": "13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BF",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "fiscal en México y fondos de inversión cuyo objetivo sea la inversión en fondos de inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMF2BF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMF2BM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales exentas"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMF2BE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BX",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas o morales con residencia fiscal distinta a México"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMF2BX",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

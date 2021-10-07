@@ -1,0 +1,402 @@
+{
+  "fondo": {
+    "nombre": "SBANKCP",
+    "url": "https://scotiabankfiles.azureedge.net/scotia-bank-mexico/spanish/pdf/personas/fondos-de-inversion/prospectos/Prospecto_SBANKCP.pdf",
+    "razon_social": {
+      "valor": "SCOTIA INVERSIONES, S.A. DE C.V.  Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20181031"
+    },
+    "tipo": {
+      "valor": "INSTRUMENTO DE DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Scotia Fondos, S.A. DE C.V., Sociedad Operadora de Fondos de Inversión, Grupo Financiero Scotiabank Inverlat",
+      "valor": 8
+    },
+    "horizonte_inversion": {
+      "valor": "Corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No se tiene plazo mínimo de permanencia"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/2"
+    },
+    "director": {
+      "valor": "David Jaime Valle"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "CORTO PLAZO(IDCP)"
+    },
+    "horario_cierre": {
+      "valor": "13:30 hrs."
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "C1E",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "FONDOS DE INVERSIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPC1E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.60"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": "$249,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.95"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F2",
+        "monto_minimo": {
+          "valor": "$250,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$749,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.90"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F3",
+        "monto_minimo": {
+          "valor": "$750,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$1,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.50"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPF3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F4",
+        "monto_minimo": {
+          "valor": "$2,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$4,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.05"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPF4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F5",
+        "monto_minimo": {
+          "valor": "$5,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.05"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPF5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBE",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.20"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPFBE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBF",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.20"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPFBF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBM",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.20"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPFBM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "II0",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles adquirientes": {
+          "valor": "INVERSIONISTAS INSTITUCIONALES Y PLANES DE PENSIONES CON MANDATO"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPII0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": "$1,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.65"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M2",
+        "monto_minimo": {
+          "valor": "$2,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$4,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.20"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M3",
+        "monto_minimo": {
+          "valor": "$5,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$14,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.00"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPM3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M4",
+        "monto_minimo": {
+          "valor": "$15,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$24,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.80"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPM4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M5",
+        "monto_minimo": {
+          "valor": "$25,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.60"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPM5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "S",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS EMPLEADOS DEL GRUPO FINANCIERO SCOTIABANK"
+        },
+        "vigente": 1,
+        "clave_BMV": "SBANKCPS",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

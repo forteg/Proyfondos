@@ -1,0 +1,171 @@
+{
+  "fondo": {
+    "nombre": "INVEXGU",
+    "url": "https://www.invex.com/getmedia/4ae2c1ee-ad34-4520-b97f-d84249ffe881/Pros_Comp_INVEXGU?ext=.pdf",
+    "razon_social": {
+      "valor": "Z REFMO 1 S.A. DE C.V. Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20190131"
+    },
+    "tipo": {
+      "valor": "Fondo de inversión en Instrumentos de Deuda.",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "INVEX Operadora S.A. de C.V. Sociedad Operadora de Fondos de Inversión INVEX Grupo Financiero.",
+      "valor": 18
+    },
+    "horizonte_inversion": {
+      "valor": "corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/2 "
+    },
+    "director": {
+      "valor": "José Rodolfo Campuzano Meza"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "CORTO PLAZO GUBERNAMENTAL (IDCPGUB)"
+    },
+    "horario_cierre": {
+      "valor": "13:40"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BM1",
+        "monto_minimo": {
+          "valor": "Una acción "
+        },
+        "monto_maximo": {
+          "valor": " $ 9’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.471"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXGUBM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM2",
+        "monto_minimo": {
+          "valor": "$ 10’000,000.00 "
+        },
+        "monto_maximo": {
+          "valor": " $ 49’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.471"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXGUBM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM3",
+        "monto_minimo": {
+          "valor": "$ 50’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.471"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXGUBM3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "Una acción "
+        },
+        "monto_maximo": {
+          "valor": " $ 9’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.471"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXGUBE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE2",
+        "monto_minimo": {
+          "valor": "$ 10’000,000.00 "
+        },
+        "monto_maximo": {
+          "valor": " $ 49’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.471"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXGUBE2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE3",
+        "monto_minimo": {
+          "valor": "$ 50’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.471"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXGUBE3",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

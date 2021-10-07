@@ -1,0 +1,129 @@
+{
+  "fondo": {
+    "nombre": "EVEREST",
+    "url": "https://www.actinver.com//cs/groups/public/documents/fondosdeinversion/ywn0/mdqz/~edisp/act043447.pdf",
+    "razon_social": {
+      "valor": "Operadora Actinver, S.A. de C.V., Sociedad  Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)."
+    },
+    "fecha_autorizacion": {
+      "valor": "20210330"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)",
+      "valor": 2
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "1 día hábil"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Alonso Madero Rivero"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL (RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "45 min. antes del cierre del mercado mexicano"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "Sin montos mínimos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "2.34"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "EVERESTB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "C",
+        "monto_minimo": {
+          "valor": "Sin montos mínimos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "GESTIÓN DE INVERSIONES"
+        },
+        "vigente": 1,
+        "clave_BMV": "EVERESTC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "Sin montos mínimos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "2.17"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "EVERESTE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin montos mínimos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "2.24"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "EVERESTM",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

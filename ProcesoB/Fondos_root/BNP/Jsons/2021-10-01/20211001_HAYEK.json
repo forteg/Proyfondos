@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "+HAYEK+",
+    "url": "https://docfinder.bnpparibas-am.com/api/files/C2B74E42-AF00-4379-9E3B-8B66645BE87F",
+    "razon_social": {
+      "valor": "Fondo Fintual Risky Hayek, S.A. de C.V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20201218"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "BNP Paribas Asset Management México, S.A. de C.V., Sociedad Operadora de Fondos de Inversión y asesorado por",
+      "valor": 85
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No existe"
+    },
+    "calificacion_mercado": {
+      "valor": "N.A."
+    },
+    "director": {
+      "valor": "Carlos Esteban Rivera de la Mora"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Especializado en Renta Variable"
+    },
+    "horario_cierre": {
+      "valor": "13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "E10M",
+        "monto_minimo": {
+          "valor": "el precio de una acción. "
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.82"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "+HAYEK+E10M",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F10",
+        "monto_minimo": {
+          "valor": "el precio de una acción. "
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "1.22"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "+HAYEK+F10",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E10F",
+        "monto_minimo": {
+          "valor": "el precio de una acción. "
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "1.22"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas  no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "+HAYEK+E10F",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

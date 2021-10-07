@@ -1,0 +1,423 @@
+{
+  "fondo": {
+    "nombre": "BNPP-CP",
+    "url": "https://docfinder.bnpparibas-am.com/api/files/4C61A61E-5643-430D-8343-3EC7DB600345",
+    "razon_social": {
+      "valor": "BNPP 1, S.A. de C.V., Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20210729"
+    },
+    "tipo": {
+      "valor": "Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "BNP Paribas Asset Management México, S.A. de C.V., Sociedad Operadora de Fondos de Inversió",
+      "valor": 85
+    },
+    "horizonte_inversion": {
+      "valor": "Corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/1"
+    },
+    "director": {
+      "valor": "Carlos Esteban Rivera de la Mora"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Corto Plazo Gubernamental IDCPGUB"
+    },
+    "horario_cierre": {
+      "valor": "13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE0",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.0"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de inversión y personas morales no contribuyentes con gestión de inversiones"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBE0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE2",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.50"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBE2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE3",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.29"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBE3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E40",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "1.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPE40",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM1",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM2",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.29"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M30",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "1.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPM30",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF1",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.85"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF2",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "1.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BFE",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.85"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBFE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E20F",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "1.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPE20F",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E10E",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.10"
+        },
+        "posibles_adquirientes": {
+          "valor": "Empleados, directivos, consejeros o jubilados del grupo BNP Paribas cuyas inversiones sean exentas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPE10E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM0",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales con gestión de inversiones"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPBM0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B10X",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.29"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas y morales extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPB10X",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B20X",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas y morales extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPB20X",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E10X",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.29"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas y morales extranjeras no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPE10X",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E20X",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": "N.A."
+        },
+        "comision_cliente": {
+          "valor": "0.0"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas y morales extranjeras no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "BNPP-CPE20X",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

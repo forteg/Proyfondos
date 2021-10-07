@@ -1,0 +1,612 @@
+{
+  "fondo": {
+    "nombre": "SCOTIAG",
+    "url": "https://scotiabankfiles.azureedge.net/scotia-bank-mexico/spanish/pdf/personas/fondos-de-inversion/prospectos/Prospecto_SCOTIAG.pdf",
+    "razon_social": {
+      "valor": "SCOTIA DEUDA GUBERNAMENTAL CORTO PLAZO, S.A. DE C.V.  Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20191220"
+    },
+    "tipo": {
+      "valor": "Instrumento de deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Scotia Fondos, S.A. DE C.V., Sociedad Operadora de Fondos de Inversión, Grupo Financiero Scotiabank Inverlat",
+      "valor": 8
+    },
+    "horizonte_inversion": {
+      "valor": "Corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No se tiene plazo mínimo de permanencia"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/2"
+    },
+    "director": {
+      "valor": "David Jaime Valle"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Instrumento de deuda corto plazo gubernamental(IDCPGUB)"
+    },
+    "horario_cierre": {
+      "valor": "13:30 horas"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "C1E",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGC1E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CU1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": "$1,499,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.35"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGCU1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CU2",
+        "monto_minimo": {
+          "valor": "$1,500,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$4,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGCU2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CU3",
+        "monto_minimo": {
+          "valor": "$5,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$14,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.85"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGCU3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CU4",
+        "monto_minimo": {
+          "valor": "$15,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.45"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGCU4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": "$49,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.90"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E2",
+        "monto_minimo": {
+          "valor": "$50,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$149,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.45"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGE2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E3",
+        "monto_minimo": {
+          "valor": "$150,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$299,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGE3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E4",
+        "monto_minimo": {
+          "valor": "$300,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.10"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGE4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": "$49,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.65"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F2",
+        "monto_minimo": {
+          "valor": "$50,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$199,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.55"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F3",
+        "monto_minimo": {
+          "valor": "$200,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$749,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.40"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGF3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F4",
+        "monto_minimo": {
+          "valor": "$750,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$1,499,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.15"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGF4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F5",
+        "monto_minimo": {
+          "valor": "$1,500,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$4,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGF5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F6",
+        "monto_minimo": {
+          "valor": "$5,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$9,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGF6",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F7",
+        "monto_minimo": {
+          "valor": "$10,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.20"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGF7",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBE",
+        "monto_minimo": {
+          "valor": "Desde $0.00 en adelantre"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGFBE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBF",
+        "monto_minimo": {
+          "valor": "Desde $0.00 en adelantre"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGFBF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FBM",
+        "monto_minimo": {
+          "valor": "Desde $0.00 en adelantre"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGFBM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "II0",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Gestión de inversión administrada por la misma socied"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGII0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": "$749,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.35"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M2",
+        "monto_minimo": {
+          "valor": "$750,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$1,499,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.05"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M3",
+        "monto_minimo": {
+          "valor": "$1,500,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$4,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.90"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGM3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M4",
+        "monto_minimo": {
+          "valor": "$5,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$9,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.65"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGM4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M5",
+        "monto_minimo": {
+          "valor": "$10,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$19,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.60"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGM5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M6",
+        "monto_minimo": {
+          "valor": "$20,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGM6",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "S",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.30"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas empleados del grupo financiero scotia"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOTIAGS",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

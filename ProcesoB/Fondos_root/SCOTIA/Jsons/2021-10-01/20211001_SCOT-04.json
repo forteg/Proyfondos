@@ -1,0 +1,150 @@
+{
+  "fondo": {
+    "nombre": "SCOT-04",
+    "url": "https://scotiabankfiles.azureedge.net/scotia-bank-mexico/spanish/pdf/personas/fondos-de-inversion/prospectos/Prospecto_SCOT-04.pdf",
+    "razon_social": {
+      "valor": "SCOTIA ESTRATEGIA 4, S.A. DE C.V.,  Fondo de Inversión en Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20170717"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Scotia Fondos, S.A. DE C.V., Sociedad Operadora de Fondos de Inversión, Grupo Financiero Scotiabank Inverlat",
+      "valor": 8
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No se tiene plazo mínimo de permanencia"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "David Jaime Valle"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL(RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "14:00 horas"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "C1E",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "FONDOS DE INVERSIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-04C1E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.00"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-04E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "L",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.00"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-04L",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.75"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-04M",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X",
+        "monto_minimo": {
+          "valor": "0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.00"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS EXTRANJERAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "SCOT-04X",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

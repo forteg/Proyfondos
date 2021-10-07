@@ -1,0 +1,66 @@
+{
+  "fondo": {
+    "nombre": "GBM103",
+    "url": "https://www.gbmfondos.com.mx/files/pdf/soluciones/fisicas/prospectos/Prospecto_GBM103.pdf?v=2633138202317625.5",
+    "razon_social": {
+      "valor": "GBM 103 S. A. de C. V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20170811"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión en Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "GBM Administradora de Activos S.A. de C.V. Sociedad Operadora de Fondos de Inversión",
+      "valor": 14
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "El fondo no cuenta con plazo mínimo de permanencia."
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Fernando Castro Tapia"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional RVDIS"
+    },
+    "horario_cierre": {
+      "valor": "13:45"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "1.2"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas y morales, mexicanas o extranjeras."
+        },
+        "vigente": 1,
+        "clave_BMV": "GBM103B",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

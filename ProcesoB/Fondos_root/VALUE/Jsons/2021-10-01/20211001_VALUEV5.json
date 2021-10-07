@@ -1,0 +1,66 @@
+{
+  "fondo": {
+    "nombre": "VALUE v5",
+    "url": "https://www.value.com.mx/sociedadesInversion/prospectos/VALUE%20V5%20PPTO%20DIC%2020.pdf",
+    "razon_social": {
+      "valor": "FONDO VALUE MONTERREY, S.A. DE C.V."
+    },
+    "fecha_autorizacion": {
+      "valor": null
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión de Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Value Operadora de Fondos de Inversión, S.A. de C.V., Value Grupo Financiero",
+      "valor": 24
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano a largo plazo"
+    },
+    "liquidez": {
+      "valor": "48 hrs. (después de la ejecución y de la operación del fondo)."
+    },
+    "permanencia": {
+      "valor": "Diaria"
+    },
+    "calificacion_mercado": {
+      "valor": "-"
+    },
+    "director": {
+      "valor": "Arturo Rafael Orozco López"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Especializado en Acciones RVESACC"
+    },
+    "horario_cierre": {
+      "valor": "13:00 horas"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "$25,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "24.098"
+        },
+        "posibles_adquirientes": {
+          "valor": "Persona Física, Morales y P. Morales No Contribuyentes."
+        },
+        "vigente": 1,
+        "clave_BMV": "VALUEv5B",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

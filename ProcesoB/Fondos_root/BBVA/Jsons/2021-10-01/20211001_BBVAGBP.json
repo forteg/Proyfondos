@@ -1,0 +1,150 @@
+{
+  "fondo": {
+    "nombre": "BBVAGBP",
+    "url": "https://portal.bbva.mx/siabinternet/Repositorio/import/doctos/analisis/00011500.pdf",
+    "razon_social": {
+      "valor": "Fondo BBVA Bancomer de Protección Diaria, S.A. de C.V. Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20181003"
+    },
+    "tipo": {
+      "valor": "Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "BBVA Bancomer Gestión, S.A. de C.V. Sociedad Operadora de Fondos de Inversión, Grupo Financiero BBVA Bancomer.",
+      "valor": 6
+    },
+    "horizonte_inversion": {
+      "valor": "Corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No aplica"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/1"
+    },
+    "director": {
+      "valor": "Erick Noel Rodríguez Jimarez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Corto Plazo Especializado en Mercado de Dinero - IDCPESMD"
+    },
+    "horario_cierre": {
+      "valor": "13:30 hrs"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.71"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAGBPE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E1",
+        "monto_minimo": {
+          "valor": "$150,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.53"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAGBPE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "EFA",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.42"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAGBPEFA",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "NC",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.42"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAGBPNC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "NC1",
+        "monto_minimo": {
+          "valor": "$200,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.18"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVAGBPNC1",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

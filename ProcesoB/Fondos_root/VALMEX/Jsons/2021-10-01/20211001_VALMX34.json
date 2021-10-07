@@ -1,0 +1,129 @@
+{
+  "fondo": {
+    "nombre": "VALMX34",
+    "url": "https://www.valmex.com.mx/sites/default/files/2019-09/operadora_valmx34_prospecto_de_informacion_3.pdf",
+    "razon_social": {
+      "valor": "FONDO VALMEX DE VALORES DENOMINADOS EN MONEDA EXTRANJERA, S.A. DE C.V., Fondo de Inversión"
+    },
+    "fecha_autorizacion": {
+      "valor": "20181130"
+    },
+    "tipo": {
+      "valor": "Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Operadora Valmex de Fondos de Inversión, S.A. de C.V.",
+      "valor": 23
+    },
+    "horizonte_inversion": {
+      "valor": "mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Semanal y diaria, depende del día en que se solicite la venta"
+    },
+    "permanencia": {
+      "valor": "Depende de las políticas de compra y venta"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/2"
+    },
+    "director": {
+      "valor": "Ernesto Diez Sánchez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "ESPECIALIZADA EN DEUDA (RVESD)"
+    },
+    "horario_cierre": {
+      "valor": "12:45"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B0CO",
+        "monto_minimo": {
+          "valor": "El valor de una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.5313"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX34B0CO",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B0FI",
+        "monto_minimo": {
+          "valor": "El valor de una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.6313"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX34B0FI",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B1CO",
+        "monto_minimo": {
+          "valor": "2 Millones de dólares americanos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.3813"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX34B1CO",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B1FI",
+        "monto_minimo": {
+          "valor": "2 Millones de dólares americanos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.3813"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX34B1FI",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

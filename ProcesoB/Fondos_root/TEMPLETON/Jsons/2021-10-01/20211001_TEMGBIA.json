@@ -1,0 +1,171 @@
+{
+  "fondo": {
+    "nombre": "TEMGBIA",
+    "url": "https://www.franklintempleton.com.mx/download/es-mx/common/jwmwxgza/Templeton-Global-Bond-Fund-S.A.-de-C.V.-Prospecto.pdf",
+    "razon_social": {
+      "valor": "TEMPLETON GLOBAL BOND FUND, S.A. DE C.V., Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20150122"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión en Instrumentos de Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Franklin Templeton Asset Management México, S.A. de C.V. Sociedad Operadora de Fondos de Inversión",
+      "valor": 82
+    },
+    "horizonte_inversion": {
+      "valor": "largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No existe"
+    },
+    "calificacion_mercado": {
+      "valor": "AA/6"
+    },
+    "director": {
+      "valor": "Hugo Petricioli Castellón"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Largo Plazo General  (IDLP)"
+    },
+    "horario_cierre": {
+      "valor": "13:00 hrs."
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.2575"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "TEMGBIABE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.2126"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "TEMGBIABE2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.1839"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Física"
+        },
+        "vigente": 1,
+        "clave_BMV": "TEMGBIABF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.4987"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Física"
+        },
+        "vigente": 1,
+        "clave_BMV": "TEMGBIABF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.1842"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morale"
+        },
+        "vigente": 1,
+        "clave_BMV": "TEMGBIABM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.4983"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morale"
+        },
+        "vigente": 1,
+        "clave_BMV": "TEMGBIABM2",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "fondo": {
+    "nombre": "INVEXMP",
+    "url": "https://www.invex.com/getmedia/872285de-341f-413b-b45a-3185e015b747/Prospecto-INVEXMP-rubricado?ext=.pdf",
+    "razon_social": {
+      "valor": "Z REF 3 S.A. DE C.V. Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": null
+    },
+    "tipo": {
+      "valor": "Fondo de inversión en Instrumentos de Deuda.",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "INVEX Operadora S.A. de C.V. Sociedad Operadora de Fondos de Inversión INVEX Grupo Financiero.",
+      "valor": 18
+    },
+    "horizonte_inversion": {
+      "valor": "mediano plazo"
+    },
+    "liquidez": {
+      "valor": "diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene"
+    },
+    "calificacion_mercado": {
+      "valor": "INVEXMP"
+    },
+    "director": {
+      "valor": "José Rodolfo Campuzano Meza"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "MEDIANO PLAZO (IDMP)"
+    },
+    "horario_cierre": {
+      "valor": "13:00"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B1",
+        "monto_minimo": {
+          "valor": "Una acción "
+        },
+        "monto_maximo": {
+          "valor": " $9’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.606"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXMPB1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2",
+        "monto_minimo": {
+          "valor": "$10’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.606"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXMPB2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.606"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXMPBM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.606"
+        },
+        "posibles_adquirientes": {
+          "valor": "No contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXMPBE",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

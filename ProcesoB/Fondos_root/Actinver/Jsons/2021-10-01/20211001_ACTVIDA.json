@@ -1,0 +1,171 @@
+{
+  "fondo": {
+    "nombre": "ACTVIDA",
+    "url": "https://www.actinver.com//cs/groups/public/documents/fondosdeinversion/ywn0/mdq0/~edisp/act044042.pdf",
+    "razon_social": {
+      "valor": "Operadora Actinver, S.A. de C.V., Sociedad  Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)."
+    },
+    "fecha_autorizacion": {
+      "valor": "20210219"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)",
+      "valor": 2
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "1 día hábil"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Diego Tarrats Guerrero"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL (RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "45 min. antes del cierre del mercado de México"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "2.07"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTVIDAB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "C",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "GESTIÓN DE INVERSIONES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTVIDAC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CE",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES CON GESTIÓN DE INVERSIONES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTVIDACE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "2.57"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTVIDAE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FF",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "FONDO DE FONDOS"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTVIDAFF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "2.07"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTVIDAM",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

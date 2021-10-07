@@ -1,0 +1,213 @@
+{
+  "fondo": {
+    "nombre": "AXAIM65",
+    "url": "https://docfinder.bnpparibas-am.com/api/files/B8661851-20CE-49B8-A282-73E2B2567045",
+    "razon_social": {
+      "valor": "Ciclo de Vida 2065, S.A. de C.V., Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20180627"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "BNP Paribas Asset Management México, S.A. de C.V., Sociedad Operadora de Fondos de Inversión",
+      "valor": 85
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No existe"
+    },
+    "calificacion_mercado": {
+      "valor": "N.A."
+    },
+    "director": {
+      "valor": "Carlos Esteban Rivera de la Mora"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional - RVDIS"
+    },
+    "horario_cierre": {
+      "valor": "12:15"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE0",
+        "monto_minimo": {
+          "valor": null
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes en cuyos contratos de gestión de inversiones provistos por la Operadora se especifique que el cobro de comisiones no se realizará a través de fondos de inversión."
+        },
+        "vigente": 1,
+        "clave_BMV": "AXAIM65BE0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "500,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.60"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "AXAIM65BE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE2",
+        "monto_minimo": {
+          "valor": "100,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.60"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "AXAIM65BE2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE3",
+        "monto_minimo": {
+          "valor": "20,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.75"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "AXAIM65BE3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE4",
+        "monto_minimo": {
+          "valor": "sin mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "AXAIM65BE4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF",
+        "monto_minimo": {
+          "valor": null
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "AXAIM65BF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BFE",
+        "monto_minimo": {
+          "valor": null
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas  no contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "AXAIM65BFE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "sin mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.00"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "AXAIM65BM",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

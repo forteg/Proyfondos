@@ -1,0 +1,255 @@
+{
+  "fondo": {
+    "nombre": "ECOFUND",
+    "url": "https://www.actinver.com//cs/groups/public/documents/fondosdeinversion/dmvy/mzyw/~edisp/actinver360073.pdf",
+    "razon_social": {
+      "valor": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)."
+    },
+    "fecha_autorizacion": {
+      "valor": "20210813"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)",
+      "valor": 2
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "Un día hábil"
+    },
+    "calificacion_mercado": {
+      "valor": "NA"
+    },
+    "director": {
+      "valor": "https://www.actinver.com//cs/groups/public/documents/fondosdeinversion/dmvy/mzyw/~edisp/actinver360073.pdf"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "tDruISmCenRtoEsC dIOe NDeAuLd (aR VDIS)"
+    },
+    "horario_cierre": {
+      "valor": "45 minutos antes del cierre del mercado accionario"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "1.00"
+        },
+        "comision_fondo": {
+          "valor": "2.54"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "DINAMOB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "C",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "GESTIÓN DE INVERSIÓN ADMINISTRADA POR LA SOCIEDAD OPERADORA"
+        },
+        "vigente": 1,
+        "clave_BMV": "DINAMOC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "1.00"
+        },
+        "comision_fondo": {
+          "valor": "2.49"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "DINAMOE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FF",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "FONDO DE FONDOS"
+        },
+        "vigente": 1,
+        "clave_BMV": "DINAMOFF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "1.00"
+        },
+        "comision_fondo": {
+          "valor": "2.54"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "DINAMOM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "2.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "ECOFUNDB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "C",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "GESTIÓN DE INVERSIONES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ECOFUNDC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CE",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "GESTIÓN DE INVERSIONES NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "ECOFUNDCE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "1.89"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "ECOFUNDE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FF",
+        "monto_minimo": {
+          "valor": "Sin monto mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "FONDO DE FONDOS"
+        },
+        "vigente": 1,
+        "clave_BMV": "ECOFUNDFF",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

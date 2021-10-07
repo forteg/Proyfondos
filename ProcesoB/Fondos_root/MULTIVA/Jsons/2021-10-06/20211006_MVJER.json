@@ -1,0 +1,276 @@
+{
+  "fondo": {
+    "nombre": "MVJER",
+    "url": "https://www.multiva.com.mx/documents/140749/161657358/MVJERPROSPECTO.pdf/dcbadf46-9250-5f60-1849-35e8351b4f99?t=1631570749135",
+    "razon_social": {
+      "valor": "MULTIFONDO DE LA MUJER S.A. DE C.V Fondo de inversión en Instrumentos de Deuda. (En adelante MVJER o el FONDO)"
+    },
+    "fecha_autorizacion": {
+      "valor": "20200824"
+    },
+    "tipo": {
+      "valor": "DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Fondos de Inversión Multiva S.A. de C.V. Sociedad Operadora de Fondos de Inversión Grupo Financiero Multiva",
+      "valor": 9
+    },
+    "horizonte_inversion": {
+      "valor": "corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No existe"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/2"
+    },
+    "director": {
+      "valor": "Fanny Lorena Rodríguez Gutiérrez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "IDCP - CORTO PLAZO"
+    },
+    "horario_cierre": {
+      "valor": "13:30 Hora del DF"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.75"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención del ISR"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBE-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "1.50"
+        },
+        "comision_fondo": {
+          "valor": "1.50"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBF-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-14",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "1.00"
+        },
+        "comision_fondo": {
+          "valor": "1.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBF-14",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-28",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "0.75"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBF-28",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-7",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "1.25"
+        },
+        "comision_fondo": {
+          "valor": "1.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBF-7",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-F",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.05"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondo de fondos"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBF-F",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-H",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Empleados, jubilados, directivos o consejeros del grupo empresarial al que éste pertenezca"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBF-H",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-T",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.50"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas extranjera"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBF-T",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-T28",
+        "monto_minimo": {
+          "valor": ""
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "$"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas extranjera"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBF-T28",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.75"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales mexicanas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBM-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-T",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.75"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "MVJERBM-T",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

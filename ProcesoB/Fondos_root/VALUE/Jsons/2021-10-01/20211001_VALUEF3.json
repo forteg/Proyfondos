@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "VALUE F3",
+    "url": "https://www.value.com.mx/sociedadesInversion/prospectos/VALUE%20F3%20PPTO%20DIC%2020.pdf",
+    "razon_social": {
+      "valor": "FONDO VALUE EMPRESARIAL, S.A. DE C.V."
+    },
+    "fecha_autorizacion": {
+      "valor": "2018101 "
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión en Instrumentos de Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Value Operadora de Fondos de Inversión, S.A. de C.V., Value Grupo Financiero",
+      "valor": 24
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Un día"
+    },
+    "permanencia": {
+      "valor": "Diaria 8:00 a 13:00 horas"
+    },
+    "calificacion_mercado": {
+      "valor": "AA/5"
+    },
+    "director": {
+      "valor": "Arturo Rafael Orozco López"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Largo Plazo IDLP"
+    },
+    "horario_cierre": {
+      "valor": ""
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B1",
+        "monto_minimo": {
+          "valor": "$25,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0"
+        },
+        "comision_fondo": {
+          "valor": "3.607"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALUEF3B1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2",
+        "monto_minimo": {
+          "valor": "$25,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0"
+        },
+        "comision_fondo": {
+          "valor": "3.607"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALUEF3B2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B3",
+        "monto_minimo": {
+          "valor": "$25,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0"
+        },
+        "comision_fondo": {
+          "valor": "3.605"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALUEF3B3",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

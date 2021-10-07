@@ -1,0 +1,297 @@
+{
+  "fondo": {
+    "nombre": "SAURORT",
+    "url": "https://www.gbmfondos.com.mx/files/pdf/soluciones/fisicas/prospectos/Prospecto_SAURORT.pdf?v=2633138202317625.5",
+    "razon_social": {
+      "valor": "SAURO CAPITAL FUND S.A. de C.V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20190709"
+    },
+    "tipo": {
+      "valor": "fondo de inversión en renta variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "GBM Administradora de Activos S.A. de C.V. Sociedad Operadora de Fondos de Inversión",
+      "valor": 14
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Mensual"
+    },
+    "permanencia": {
+      "valor": "N/A"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Fernando Castro Tapia"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional"
+    },
+    "horario_cierre": {
+      "valor": "13:45"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BO",
+        "monto_minimo": {
+          "valor": "$5’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTBO",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B1",
+        "monto_minimo": {
+          "valor": "$1’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTB1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2",
+        "monto_minimo": {
+          "valor": "$1’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTB2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B3",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTB3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "$5’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTBM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM1",
+        "monto_minimo": {
+          "valor": "$1’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTBM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM2",
+        "monto_minimo": {
+          "valor": "$1’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTBM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM3",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTBM3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "$5’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales exentas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTBE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "$1’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales exentas"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTBE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BX",
+        "monto_minimo": {
+          "valor": "$5’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas o morales con residencia fiscal distinta a México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTBX",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BX1",
+        "monto_minimo": {
+          "valor": "$1’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.75"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas o morales con residencia fiscal distinta a México"
+        },
+        "vigente": 1,
+        "clave_BMV": "SAURORTBX1",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

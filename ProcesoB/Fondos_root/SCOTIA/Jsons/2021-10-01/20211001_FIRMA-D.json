@@ -1,0 +1,192 @@
+{
+  "fondo": {
+    "nombre": "FIRMA-D",
+    "url": "https://scotiabankfiles.azureedge.net/scotia-bank-mexico/spanish/pdf/personas/fondos-de-inversion/prospectos/Prospecto_FIRMA-D.pdf",
+    "razon_social": {
+      "valor": "DIVERSIFICADO, S.A. DE C.V. FONDO DE INVERSIÓN DE RENTA VARIABLE"
+    },
+    "fecha_autorizacion": {
+      "valor": "20200826"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Scotia Fondos, S.A. DE C.V., Sociedad Operadora de Fondos de Inversión, Grupo Financiero Scotiabank Inverlat",
+      "valor": 8
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No se tiene plazo mínimo de permanencia"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "David Jaime Valle"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "ESPECIALIZADO EN DEUDA(RVESD)"
+    },
+    "horario_cierre": {
+      "valor": "14:00 hrs"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "C1E",
+        "monto_minimo": {
+          "valor": "0"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "FONDOS DE INVERSIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "FIRMA-DC1E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "0"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.80"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "FIRMA-DE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "L",
+        "monto_minimo": {
+          "valor": "$1,00,000,000"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.88"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FIRMA-DL",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "L2",
+        "monto_minimo": {
+          "valor": "$0"
+        },
+        "monto_maximo": {
+          "valor": "$99,999,999"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.18"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FIRMA-DL2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "$100,000,000"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.80"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONA MORAL"
+        },
+        "vigente": 1,
+        "clave_BMV": "FIRMA-DM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M2",
+        "monto_minimo": {
+          "valor": "$0"
+        },
+        "monto_maximo": {
+          "valor": "$99,999,999"
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.10"
+        },
+        "posibles adquirientes": {
+          "valor": "FONDOS DE INVERSIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "FIRMA-DM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X",
+        "monto_minimo": {
+          "valor": "0"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.80"
+        },
+        "posibles adquirientes": {
+          "valor": "PERSONAS EXTRANJERAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FIRMA-DX",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

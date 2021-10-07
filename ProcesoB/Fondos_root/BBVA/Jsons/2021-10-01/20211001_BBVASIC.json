@@ -1,0 +1,318 @@
+{
+  "fondo": {
+    "nombre": "BBVASIC",
+    "url": "https://portal.bbva.mx/siabinternet/Repositorio/import/doctos/analisis/00006345.pdf",
+    "razon_social": {
+      "valor": "Fondo BBVA Bancomer RV24, S.A de C.V., Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20190214"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "BBVA Bancomer Gestión, S.A. de C.V. Sociedad Operadora de Fondos de Inversión, Grupo Financiero BBVA Bancomer.",
+      "valor": 6
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No aplica"
+    },
+    "calificacion_mercado": {
+      "valor": "N.A."
+    },
+    "director": {
+      "valor": "Erick Noel Rodríguez Jimarez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional - RVDIS"
+    },
+    "horario_cierre": {
+      "valor": "13:00 horas"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "C",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "3.57"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "2.09"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de Inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FS",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de Inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICFS",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "GB",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.44"
+        },
+        "posibles_adquirientes": {
+          "valor": "Empleados y jubilados del grupo financiero"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICGB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "GPF",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICGPF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "IF",
+        "monto_minimo": {
+          "valor": "$25,000,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.20"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales del Sistema Financiero Mex"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICIF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "NC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.50"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICNC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "P",
+        "monto_minimo": {
+          "valor": "$1,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "2.98"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICP",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "PV",
+        "monto_minimo": {
+          "valor": "$15,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "2.39"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICPV",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "TS",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales del Sistema Financiero Mex"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICTS",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "UHN",
+        "monto_minimo": {
+          "valor": "$100,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "1.80"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICUHN",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "UHN2",
+        "monto_minimo": {
+          "valor": "$300,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "1.45"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVASICUHN2",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "FINAUSA",
+    "url": "https://www.finamex.com.mx/Admin/Visualizar/Contenido/13010",
+    "razon_social": {
+      "valor": "Fondo Renta Variable Finamex S.A. de C.V., Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20210813"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "FINAMEX INVERSIONES, S.A. DE C.V., SOCIEDAD OPERADORA DE FONDOS DE INVERSIÓN",
+      "valor": 22
+    },
+    "horizonte_inversion": {
+      "valor": "Mmediano a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "2 días hábiles."
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Luis Alberto Benavides Simón"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "ESPECIALIZADO EN RENTA VARIABLE"
+    },
+    "horario_cierre": {
+      "valor": "14:00"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "2.06"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAUSABE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "2.06"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAUSABF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "2.06"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAUSABM",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

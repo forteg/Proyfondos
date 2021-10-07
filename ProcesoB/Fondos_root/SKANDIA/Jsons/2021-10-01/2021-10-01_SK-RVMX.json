@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "SK-RVMX",
+    "url": "https://www.skandia.com.mx/plataforma-de-inversion/fondos-skandia/Documents/Prospecto_SK-RVMX.pdf",
+    "razon_social": {
+      "valor": "Skandia Renta Variable México, S.A. de C.V."
+    },
+    "fecha_autorizacion": {
+      "valor": "20210210"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Skandia Operadora de Fondos S.A. de C.V, Sociedad Operadora de Fondos de Inversión",
+      "valor": 65
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "N.A."
+    },
+    "calificacion_mercado": {
+      "valor": "N.A."
+    },
+    "director": {
+      "valor": "Julio César Méndez Ávalos"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Especializada en acciones nacionales (RVESACC)"
+    },
+    "horario_cierre": {
+      "valor": "12:30 hrs."
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A ."
+        },
+        "comision_fondo": {
+          "valor": "0.042"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas y morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SK-RVMXB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.154"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas y morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SK-RVMXE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E0",
+        "monto_minimo": {
+          "valor": "N.A."
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A ."
+        },
+        "comision_fondo": {
+          "valor": "0.092"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas No Sujetas a Retención (Empleados)"
+        },
+        "vigente": 1,
+        "clave_BMV": "SK-RVMXE0",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

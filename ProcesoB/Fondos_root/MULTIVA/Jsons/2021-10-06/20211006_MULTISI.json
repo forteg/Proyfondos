@@ -1,0 +1,255 @@
+{
+  "fondo": {
+    "nombre": "MULTISI",
+    "url": "https://www.multiva.com.mx/documents/140749/161654980/MULTISI_P.pdf/1b5eb87f-fb0a-b115-40b3-61217d774e5e?t=1631555132951",
+    "razon_social": {
+      "valor": "MULTISI S.A. DE C.V Fondo de inversión en Instrumentos de Deuda. (En adelante MULTISI o el FONDO)"
+    },
+    "fecha_autorizacion": {
+      "valor": "20200824"
+    },
+    "tipo": {
+      "valor": "DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Fondos de Inversión Multiva S.A. de C.V. Sociedad Operadora de Fondos de Inversión Grupo Financiero Multiva",
+      "valor": 9
+    },
+    "horizonte_inversion": {
+      "valor": "corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "Un día"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/2"
+    },
+    "director": {
+      "valor": "Fanny Lorena Rodríguez Gutiérrez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "IDCP - CORTO PLAZO"
+    },
+    "horario_cierre": {
+      "valor": "13:30 Hora del DF"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBE-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE-2",
+        "monto_minimo": {
+          "valor": "$3,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBE-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "2.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBF-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-2",
+        "monto_minimo": {
+          "valor": "$3,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.50"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBF-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-F",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.05"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondo de fondos"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBF-F",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-H",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Empleados, jubilados, directivos o consejeros del grupo empresarial al que éste pertenezca"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBF-H",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-T",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas extranjera"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBF-T",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.75"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBM-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-2",
+        "monto_minimo": {
+          "valor": "$3,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBM-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-T",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.375"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTISIBM-T",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

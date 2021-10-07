@@ -1,0 +1,150 @@
+{
+  "fondo": {
+    "nombre": "ACTIG+2",
+    "url": "https://www.actinver.com//cs/groups/public/documents/fondosdeinversion/dmvy/mzi0/~edisp/actinver324279.pdf",
+    "razon_social": {
+      "valor": "Operadora Actinver, S.A. de C.V., Sociedad  Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)."
+    },
+    "fecha_autorizacion": {
+      "valor": "20210329"
+    },
+    "tipo": {
+      "valor": "INSTRUMENTO DE DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)",
+      "valor": 2
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Anual"
+    },
+    "permanencia": {
+      "valor": "1 año"
+    },
+    "calificacion_mercado": {
+      "valor": "AA/3"
+    },
+    "director": {
+      "valor": "Diego Tarrats Guerrero"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "MEDIANO PLAZO(IDMP)"
+    },
+    "horario_cierre": {
+      "valor": "13:45"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "2.50"
+        },
+        "comision_fondo": {
+          "valor": "1.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIG+2B",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "C",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "2.50"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "GESTIÓN DE INVERSIONES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIG+2C",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "2.50"
+        },
+        "comision_fondo": {
+          "valor": "0.74"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIG+2E",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FF",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "FONDO DE FONDOS"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIG+2FF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "2.50"
+        },
+        "comision_fondo": {
+          "valor": "1.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACTIG+2M",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

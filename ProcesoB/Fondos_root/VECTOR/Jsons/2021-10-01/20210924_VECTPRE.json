@@ -1,0 +1,402 @@
+{
+  "fondo": {
+    "nombre": "VECTPRE",
+    "url": "https://portales.vector.com.mx/img0/fondos/ProspectoParticularVECTPRE.pdf",
+    "razon_social": {
+      "valor": "VECTOR FONDO PRE, S.A. DE C.V. FONDO DE INVERSIÓN EN INSTRUMENTOS DE DEUDA"
+    },
+    "fecha_autorizacion": {
+      "valor": "20190828"
+    },
+    "tipo": {
+      "valor": "Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Vector Fondos S.A. de C.V., Sociedad Operadora de Fondos de Inversión",
+      "valor": 80
+    },
+    "horizonte_inversion": {
+      "valor": "corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene plazo mínimo de permanencia obligatorio"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/2"
+    },
+    "director": {
+      "valor": "Luis Alfredo de Urquijo Hernández"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Corto Plazo Gubernamental (IDCPGUB)"
+    },
+    "horario_cierre": {
+      "valor": "Compra: 14:00 - Venta: 13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "F0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.1237"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREF0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F-0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.1385"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREF-0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FC0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0991"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREFC0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FD0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0646"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREFD0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F+0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0301"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREF+0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0991"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREM0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "MC0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0695"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREMC0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "MD0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0498"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREMD0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M+0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0301"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREM+0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.1483"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREX0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X-0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0990"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREX-0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "XC0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0744"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREXC0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "XD0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0547"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREXD0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "XS0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREXS0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X+0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0300"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREX+0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "XX0",
+        "monto_minimo": {
+          "valor": "Por criterios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0202"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREXX0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "XF0",
+        "monto_minimo": {
+          "valor": "NA"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.0005"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTPREXF0",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

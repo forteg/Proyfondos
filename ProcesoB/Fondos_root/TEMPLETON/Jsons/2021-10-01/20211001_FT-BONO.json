@@ -1,0 +1,276 @@
+{
+  "fondo": {
+    "nombre": "FT-BONO",
+    "url": "https://www.franklintempleton.com.mx/download/es-mx/common/jzpbt0wz/Franklin-Fondo-de-Bonos-S.A.-de-C.V.-Fondo-de-Inversión-en-instrumentos-de-Deuda-Prospecto.pdf",
+    "razon_social": {
+      "valor": "FRANKLIN FONDO DE BONOS, S.A. DE C.V., Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20190705"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión en Instrumentos de Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Franklin Templeton Asset Management México, S.A. de C.V. Sociedad Operadora de Fondos de Inversión.",
+      "valor": 82
+    },
+    "horizonte_inversion": {
+      "valor": "largo plazo"
+    },
+    "liquidez": {
+      "valor": "48 horas"
+    },
+    "permanencia": {
+      "valor": "No existe"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/5"
+    },
+    "director": {
+      "valor": "Hugo Petricioli Castellón"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Largo Plazo  (IDLP)"
+    },
+    "horario_cierre": {
+      "valor": "13:00 hrs."
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.3834"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retenciónn"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.5312"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retenciónn"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.7099"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retenciónn"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBE2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE3",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.9281"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retenciónn"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBE3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.5420"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.6544"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF3",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.9698"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBF3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BFF",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.5312"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de Inversió"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBFF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "0.7817"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.6544"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM3",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "1.6628"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "FT-BONOBM3",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

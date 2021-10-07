@@ -1,0 +1,339 @@
+{
+  "fondo": {
+    "nombre": "BBVACOR",
+    "url": "https://portal.bbva.mx/siabinternet/Repositorio/import/doctos/analisis/00007828.pdf",
+    "razon_social": {
+      "valor": "Fondo BBVA Bancomer Deuda 7, S.A. de C.V. , Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20190806"
+    },
+    "tipo": {
+      "valor": "Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "BBVA Bancomer Gestión, S.A. de C.V. Sociedad Operadora de Fondos de Inversión, Grupo Financiero BBVA Bancomer.",
+      "valor": 6
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Mensual, liquidando el 2° día hábil después de la"
+    },
+    "permanencia": {
+      "valor": "Determinado por la diferencia de días entre la fecha de compra y la siguiente fecha de venta"
+    },
+    "calificacion_mercado": {
+      "valor": "AA/4"
+    },
+    "director": {
+      "valor": "Erick Noel Rodríguez Jimarez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional - IDDIS"
+    },
+    "horario_cierre": {
+      "valor": "13:30 hrs"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "C",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "1.82"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.93"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.06"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de Inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "FS",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de Inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORFS",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "GB",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.46"
+        },
+        "posibles_adquirientes": {
+          "valor": "Empleados y jubilados del grupo financiero"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORGB",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "IF",
+        "monto_minimo": {
+          "valor": "$25,000,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.22"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales del Sistema Financiero Mex"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORIF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "NC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.70"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORNC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "P",
+        "monto_minimo": {
+          "valor": "$1,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "1.52"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORP",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "PV",
+        "monto_minimo": {
+          "valor": "$15,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "1.23"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORPV",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "TF",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Gestión Portafolios Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORTF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "TM",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Gestión Portafolios Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORTM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "TNC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.06"
+        },
+        "posibles_adquirientes": {
+          "valor": "Gestión Portafolios Morales No sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORTNC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "TS",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.01"
+        },
+        "posibles_adquirientes": {
+          "valor": "Gestión Portafolios P Morales Sist Financiero"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORTS",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "UHN",
+        "monto_minimo": {
+          "valor": "$100,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.93"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "BBVACORUHN",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

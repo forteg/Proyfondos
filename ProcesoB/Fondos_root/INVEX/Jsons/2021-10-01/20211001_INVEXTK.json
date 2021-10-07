@@ -1,0 +1,150 @@
+{
+  "fondo": {
+    "nombre": "INVEXTK",
+    "url": "https://www.invex.com/getmedia/38d7a7fe-3df9-4600-8056-e8619b34a6d4/Pros_Comp_INVEXTK?ext=.pdf",
+    "razon_social": {
+      "valor": "Z CAP 1 S.A. DE C.V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20181031"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión de Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "INVEX Operadora S.A. de C.V. Sociedad Operadora de Fondos de Inversión INVEX Grupo Financiero.",
+      "valor": 18
+    },
+    "horizonte_inversion": {
+      "valor": "largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene"
+    },
+    "calificacion_mercado": {
+      "valor": "-"
+    },
+    "director": {
+      "valor": "José Rodolfo Campuzano Meza"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "ESPECIALIZADO EN RENTA VARIABLE  A TRAVÉS DE TRAC’S DEL SIC"
+    },
+    "horario_cierre": {
+      "valor": "13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BMF1",
+        "monto_minimo": {
+          "valor": "Una acción "
+        },
+        "monto_maximo": {
+          "valor": " $ 4’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.10"
+        },
+        "comision_fondo": {
+          "valor": "2.504"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas y Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXTKBMF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BMF2",
+        "monto_minimo": {
+          "valor": "$5’000,000.00 "
+        },
+        "monto_maximo": {
+          "valor": " $9’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.10"
+        },
+        "comision_fondo": {
+          "valor": "2.504"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas y Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXTKBMF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BMF3",
+        "monto_minimo": {
+          "valor": "$10’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.10"
+        },
+        "comision_fondo": {
+          "valor": "2.504"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas y Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXTKBMF3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "Una acción "
+        },
+        "monto_maximo": {
+          "valor": " $ 9’999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "0.10"
+        },
+        "comision_fondo": {
+          "valor": "2.504"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXTKBE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE2",
+        "monto_minimo": {
+          "valor": "$10’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.10"
+        },
+        "comision_fondo": {
+          "valor": "2.504"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXTKBE2",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

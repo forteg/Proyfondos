@@ -1,0 +1,234 @@
+{
+  "fondo": {
+    "nombre": "GBMRETO",
+    "url": "https://www.gbmfondos.com.mx/files/pdf/soluciones/fisicas/prospectos/Prospecto_GBMRETO.pdf?v=2633138202317625.5",
+    "razon_social": {
+      "valor": "GBM RETORNO TOTAL S.A. DE C.V. FONDO DE INVERSION EN INSTRUMENTOS DE DEUDA"
+    },
+    "fecha_autorizacion": {
+      "valor": "20181031"
+    },
+    "tipo": {
+      "valor": "fondo de inversión en instrumentos de deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "GBM Administradora de Activos S.A. de C.V. Sociedad Operadora de Fondos de Inversión",
+      "valor": 14
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Semanal"
+    },
+    "permanencia": {
+      "valor": "N/A"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/5"
+    },
+    "director": {
+      "valor": "Fernando Castro Tapia"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional IDDIS"
+    },
+    "horario_cierre": {
+      "valor": "13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BF",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas con residencia fiscal en México fondos de inversión"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMRETOBF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales con residencia fiscal en México"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMRETOBM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales exentas de retención por pago de intereses"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMRETOBE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BX",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas o morales con residencia fiscal distinta a México"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMRETOBX",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BFF",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos de Inversión en instrumentos de Deuda y de Renta Variable administrados por GBM Administradora de Activos, S.A. de C.V., SOFI"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMRETOBFF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BH",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos y cajas de ahorro y por personas morales que las disposiciones aplicables determinen como exentas de retención por pago de intereses"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMRETOBH",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BMF",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas con residencia fiscal en México que mantengan una cartera de valores por virtud del servicio de gestión de inversiones, por un monto promedio equivalente en M.N. de al menos 10 millones de UDIS durante los últimos 12 meses o durante el periodo a partir de la contratación del servicio de gestión de inversiones, en caso de haber sido celebrado con una antelación menor"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMRETOBMF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BMM",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales con residencia fiscal en México que mantengan una cartera de valores por virtud del servicio de gestión de inversiones, por un monto promedio equivalente en M.N. de al menos 10 millones de UDIS durante los últimos 12 meses o durante el periodo a partir de la contratación del servicio de gestión de inversiones, en caso de haber sido celebrado con una antelación menor"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMRETOBMM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BME",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Inversionistas institucionales, fondos de pensiones y personas morales exentas de retención por el pago de intereses que mantengan una cartera de valores por virtud del servicio de gestión de inversiones, por un monto promedio equivalente en M.N. de al menos 10 millones de UDIS durante los últimos 12 meses o durante el periodo a partir de la contratación del servicio de gestión de inversiones, en caso de haber sido celebrado con una antelación menor"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMRETOBME",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

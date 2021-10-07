@@ -1,0 +1,87 @@
+{
+  "fondo": {
+    "nombre": "INVEXIN",
+    "url": "https://www.invex.com/getmedia/1d7e1269-b6f8-4ba1-8b24-68e9b9600e91/Pros_Comp_INVEXIN?ext=.pdf",
+    "razon_social": {
+      "valor": "Z CAP 3 S.A. DE C.V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20181031"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión de Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "INVEX Operadora S.A. de C.V. Sociedad Operadora de Fondos de Inversión INVEX Grupo Financiero.",
+      "valor": 18
+    },
+    "horizonte_inversion": {
+      "valor": "largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No tiene"
+    },
+    "calificacion_mercado": {
+      "valor": "-"
+    },
+    "director": {
+      "valor": "José Rodolfo Campuzano Meza"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "ESPECIALIZADA EN RENTA VARIABLE"
+    },
+    "horario_cierre": {
+      "valor": "13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BMF",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.10"
+        },
+        "comision_fondo": {
+          "valor": "3.058"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas y Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXINBMF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.10"
+        },
+        "comision_fondo": {
+          "valor": "3.058"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales No Sujetas a Retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "INVEXINBE",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

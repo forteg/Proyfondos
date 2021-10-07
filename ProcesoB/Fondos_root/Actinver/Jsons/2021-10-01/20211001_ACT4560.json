@@ -1,0 +1,234 @@
+{
+  "fondo": {
+    "nombre": "ACT4560",
+    "url": "https://www.actinver.com//cs/groups/public/documents/fondosdeinversion/ywn0/mdqz/~edisp/act043753.pdf",
+    "razon_social": {
+      "valor": "Operadora Actinver, S.A. de C.V., Sociedad  Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)."
+    },
+    "fecha_autorizacion": {
+      "valor": "20210219"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Operadora Actinver, S.A. de C.V., Sociedad Operadora de Fondos de Inversión,Grupo Financiero Actinver (ACTINVER)",
+      "valor": 2
+    },
+    "horizonte_inversion": {
+      "valor": "Largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "1 día hábil"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Alonso Madero Rivero"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL (RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "45 minutos antes del cierre del mercado"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B-1",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": "$2,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "1.50"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACT4560B-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B-2",
+        "monto_minimo": {
+          "valor": "$3,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "1.20"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACT4560B-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "CE",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES CON GESTIÓN DE INVERSIONES"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACT4560CE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E-1",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": "$2,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "1.00"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACT4560E-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E-2",
+        "monto_minimo": {
+          "valor": "$3,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$99,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.85"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACT4560E-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E-3",
+        "monto_minimo": {
+          "valor": "$100,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$199,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.75"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACT4560E-3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E-4",
+        "monto_minimo": {
+          "valor": "$200,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": "$299,999,999.99"
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.50"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACT4560E-4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E-5",
+        "monto_minimo": {
+          "valor": "$300,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.35"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS NO SUJETAS A RETENCIÓN"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACT4560E-5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "T",
+        "monto_minimo": {
+          "valor": "Una acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "NA"
+        },
+        "comision_fondo": {
+          "valor": "0.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "EMPLEADOS DE GRUPO FINANCIERO ACTINVER"
+        },
+        "vigente": 1,
+        "clave_BMV": "ACT4560T",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "fondo": {
+    "nombre": "GBMGLB",
+    "url": "https://www.gbmfondos.com.mx/files/pdf/soluciones/fisicas/prospectos/Prospecto_GBMGLB.pdf?v=2633138202317625.5",
+    "razon_social": {
+      "valor": "GBM GLOBAL S. A. de C. V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20201211"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión en Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "GBM Administradora de Activos S.A. de C.V. Sociedad Operadora de Fondos de Inversión",
+      "valor": 14
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "N/A"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Fernando Castro Tapia"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional RVDIS"
+    },
+    "horario_cierre": {
+      "valor": "13:45"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B1",
+        "monto_minimo": {
+          "valor": "$500’000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "1.5"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Figuras jurídicas o personas morales, ambas extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMGLBB1",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

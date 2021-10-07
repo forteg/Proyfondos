@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "SB+GF",
+    "url": "https://portal.bbva.mx/siabinternet/Repositorio/import/doctos/analisis/00020024.pdf",
+    "razon_social": {
+      "valor": "Fondo BBVA Bancomer RV13, S.A. de C.V., Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20171026"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "BBVA Bancomer Gestión, S.A. de C.V. Sociedad Operadora de Fondos de Inversión, Grupo Financiero BBVA Bancomer.",
+      "valor": 6
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No aplica"
+    },
+    "calificacion_mercado": {
+      "valor": "N.A."
+    },
+    "director": {
+      "valor": "Erick Noel Rodríguez Jimarez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional - RVDIS"
+    },
+    "horario_cierre": {
+      "valor": "hasta dos horas antes del cierre del mercado"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "IF",
+        "monto_minimo": {
+          "valor": "$25,000,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales del Sistema Financiero Mex"
+        },
+        "vigente": 1,
+        "clave_BMV": "SB+GFIF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "IS",
+        "monto_minimo": {
+          "valor": "$15,000,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.40"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales del Sistema Financiero Mex"
+        },
+        "vigente": 1,
+        "clave_BMV": "SB+GFIS",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "NC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "No aplica"
+        },
+        "comision_fondo": {
+          "valor": "0.95"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SB+GFNC",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

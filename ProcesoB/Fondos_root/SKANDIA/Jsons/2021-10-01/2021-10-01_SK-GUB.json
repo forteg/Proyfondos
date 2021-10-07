@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "SK-GUB",
+    "url": "https://www.skandia.com.mx/plataforma-de-inversion/fondos-skandia/Documents/Prospecto_SK-GUB.pdf",
+    "razon_social": {
+      "valor": "Skandia DG, S.A. de C.V."
+    },
+    "fecha_autorizacion": {
+      "valor": "20201218"
+    },
+    "tipo": {
+      "valor": "Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Skandia Operadora de Fondos S.A. de C.V, Sociedad Operadora de Fondos de Inversión",
+      "valor": 65
+    },
+    "horizonte_inversion": {
+      "valor": "Corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "N.A."
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/2"
+    },
+    "director": {
+      "valor": "Julio César Méndez Ávalos"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Corto plazo gubernamental (IDCP)"
+    },
+    "horario_cierre": {
+      "valor": "12:45 hrs."
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "F1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A ."
+        },
+        "comision_fondo": {
+          "valor": "0.001"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SK-GUBF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "E1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A ."
+        },
+        "comision_fondo": {
+          "valor": "0.022"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "SK-GUBE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M1",
+        "monto_minimo": {
+          "valor": "$0.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A ."
+        },
+        "comision_fondo": {
+          "valor": "0 .02 7"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "SK-GUBM1",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

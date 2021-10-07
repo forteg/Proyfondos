@@ -1,0 +1,66 @@
+{
+  "fondo": {
+    "nombre": "MULTINS",
+    "url": "https://www.multiva.com.mx/documents/140749/161658372/MULTINS_P.pdf/35cc36bd-a7a1-71fb-a263-647bcd952ab7?t=1631555302027",
+    "razon_social": {
+      "valor": "MULTIFONDO INSTITUCIONAL S.A DE C.V Fondo de inversión en Instrumentos de Deuda. (En adelante MULTINS o el FONDO)"
+    },
+    "fecha_autorizacion": {
+      "valor": "20180618"
+    },
+    "tipo": {
+      "valor": "DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Fondos de Inversión Multiva S.A. de C.V. Sociedad Operadora de Fondos de Inversión Grupo Financiero Multiva",
+      "valor": 9
+    },
+    "horizonte_inversion": {
+      "valor": "mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Semanal"
+    },
+    "permanencia": {
+      "valor": "El plazo mínimo de permanencia depende de la fecha de la compra y la posterior venta"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/4"
+    },
+    "director": {
+      "valor": "Fanny Lorena Rodríguez Gutiérrez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "IDMP - MEDIANO PLAZO"
+    },
+    "horario_cierre": {
+      "valor": "13:30 Hora del DF"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.75"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTINSBE-1",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

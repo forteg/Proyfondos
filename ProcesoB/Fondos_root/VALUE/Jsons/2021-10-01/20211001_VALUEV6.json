@@ -1,0 +1,66 @@
+{
+  "fondo": {
+    "nombre": "VALUE V6",
+    "url": "https://www.value.com.mx/sociedadesInversion/prospectos/VALUE%20V6%20PPTO%20DIC%2020.pdf",
+    "razon_social": {
+      "valor": "FONDO VALUE CRECIMIENTO, S.A. DE C.V."
+    },
+    "fecha_autorizacion": {
+      "valor": "20180815"
+    },
+    "tipo": {
+      "valor": "Fondo de Inversión de Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Value Operadora de Fondos de Inversión, S.A. de C.V., Value Grupo Financiero",
+      "valor": 24
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diario"
+    },
+    "permanencia": {
+      "valor": "48 hrs. (después de la ejecución y de la operación del fondo)."
+    },
+    "calificacion_mercado": {
+      "valor": "-"
+    },
+    "director": {
+      "valor": "Arturo Rafael Orozco López"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Mayoritariamente en Deuda RV>D"
+    },
+    "horario_cierre": {
+      "valor": "13:00 horas"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B",
+        "monto_minimo": {
+          "valor": "$25,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "n/a"
+        },
+        "comision_fondo": {
+          "valor": "10.107"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas y Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALUEV6B",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

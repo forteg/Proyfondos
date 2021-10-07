@@ -1,0 +1,192 @@
+{
+  "fondo": {
+    "nombre": "MULTIUS",
+    "url": "https://www.multiva.com.mx/documents/140749/161658999/MULTIUS_P.pdf/bab9d3f6-0b31-0369-2e89-beffeda663e7?t=1631555348427",
+    "razon_social": {
+      "valor": "MULTIFONDO DE AHORRADORES S.A. DE C.V Fondo de inversión en Instrumentos de Deuda. (En adelante MULTIUS o el FONDO)"
+    },
+    "fecha_autorizacion": {
+      "valor": "20200824"
+    },
+    "tipo": {
+      "valor": "DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Fondos de Inversión Multiva S.A. de C.V. Sociedad Operadora de Fondos de Inversión Grupo Financiero Multiva",
+      "valor": 9
+    },
+    "horizonte_inversion": {
+      "valor": "corto plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No existe"
+    },
+    "calificacion_mercado": {
+      "valor": "AA/6"
+    },
+    "director": {
+      "valor": "Fanny Lorena Rodríguez Gutiérrez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "IDCPME - CORTO PLAZO EN MONEDA EXTRANJERA"
+    },
+    "horario_cierre": {
+      "valor": "12:30 Hora del DF"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.10"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIUSBE-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.10"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIUSBF-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-F",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.05"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondo de fondos"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIUSBF-F",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-H",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Empleados, jubilados, directivos o consejeros del grupo empresarial al que éste pertenezca"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIUSBF-H",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-T",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.10"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas extranjera"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIUSBF-T",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.10"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIUSBM-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-T",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "1.10"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIUSBM-T",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "VALMXES",
+    "url": "https://www.valmex.com.mx/sites/default/files/2019-09/operadora_valmxes_prospecto_de_informacion_2.pdf",
+    "razon_social": {
+      "valor": "Fondo Valmex Español de Capitales, S.A. de C.V., Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20200430"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Operadora Valmex de Fondos de Inversión, S.A. de C.V.",
+      "valor": 23
+    },
+    "horizonte_inversion": {
+      "valor": "largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No hay plazo mínimo"
+    },
+    "calificacion_mercado": {
+      "valor": "No aplica"
+    },
+    "director": {
+      "valor": "Ernesto Diez Sánchez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Especializado en acciones internacionales (RVESACCINT)"
+    },
+    "horario_cierre": {
+      "valor": "9:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B0",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.2059"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas, morales y no sujetas a retención, nacionales y/o extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXESB0",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B1",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "2.0565"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas, morales y no sujetas a retención, nacionales y/o extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXESB1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "1.7065"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas, morales y no sujetas a retención, nacionales y/o extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMXESB2",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

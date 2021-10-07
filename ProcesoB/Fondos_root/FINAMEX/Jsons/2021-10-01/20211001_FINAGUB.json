@@ -1,0 +1,549 @@
+{
+  "fondo": {
+    "nombre": "FINAGUB",
+    "url": "https://www.finamex.com.mx/Admin/Visualizar/Contenido/12902",
+    "razon_social": {
+      "valor": "Fondo Finamex Gubernamental, S.A. de C.V. Fondo de Inversión en Instrumentos de Deuda"
+    },
+    "fecha_autorizacion": {
+      "valor": "20180919"
+    },
+    "tipo": {
+      "valor": "INSTRUMENTO DE DEUDA",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "FINAMEX INVERSIONES, S.A. DE C.V., SOCIEDAD OPERADORA DE FONDOS DE INVERSIÓN",
+      "valor": 22
+    },
+    "horizonte_inversion": {
+      "valor": "Corto a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Todos los días hábiles"
+    },
+    "permanencia": {
+      "valor": "Un día"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/3"
+    },
+    "director": {
+      "valor": "Luis Alberto Benavides Simón"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL(IDDIS)"
+    },
+    "horario_cierre": {
+      "valor": "14:00 horas"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE1",
+        "monto_minimo": {
+          "valor": "0.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "2.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBE1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE2",
+        "monto_minimo": {
+          "valor": "1,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBE2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE3",
+        "monto_minimo": {
+          "valor": "2,500,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.54"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBE3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE4",
+        "monto_minimo": {
+          "valor": "5,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.29"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBE4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE5",
+        "monto_minimo": {
+          "valor": "7,500,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBE5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE6",
+        "monto_minimo": {
+          "valor": "10,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "0.84"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBE6",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE7",
+        "monto_minimo": {
+          "valor": "30,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "0.64"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBE7",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE8",
+        "monto_minimo": {
+          "valor": "0.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.54"
+        },
+        "posibles_adquirientes": {
+          "valor": "INSTITUCIONES DE SEGUROS Y FIANZAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBE8",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF1",
+        "monto_minimo": {
+          "valor": "0.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "2.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBF1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF2",
+        "monto_minimo": {
+          "valor": "1,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBF2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF3",
+        "monto_minimo": {
+          "valor": "2,500,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.54"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBF3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF4",
+        "monto_minimo": {
+          "valor": "5,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.29"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBF4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF5",
+        "monto_minimo": {
+          "valor": "7,500,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBF5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF6",
+        "monto_minimo": {
+          "valor": "10,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "0.84"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBF6",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF7",
+        "monto_minimo": {
+          "valor": "30,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "0.64"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBF7",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF8",
+        "monto_minimo": {
+          "valor": "100,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "0.49"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBF8",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM1",
+        "monto_minimo": {
+          "valor": "0.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "2.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBM1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM2",
+        "monto_minimo": {
+          "valor": "1,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.79"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBM2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM3",
+        "monto_minimo": {
+          "valor": "2,500,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.54"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBM3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM4",
+        "monto_minimo": {
+          "valor": "5,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.29"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBM4",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM5",
+        "monto_minimo": {
+          "valor": "7,500,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "1.04"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBM5",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM6",
+        "monto_minimo": {
+          "valor": "10,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "0.84"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBM6",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM7",
+        "monto_minimo": {
+          "valor": "30,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "0.64"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBM7",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM8",
+        "monto_minimo": {
+          "valor": "100,000,000.01"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "-"
+        },
+        "comision_fondo": {
+          "valor": "0.49"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINAGUBBM8",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

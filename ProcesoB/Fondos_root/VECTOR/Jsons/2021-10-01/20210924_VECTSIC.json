@@ -1,0 +1,192 @@
+{
+  "fondo": {
+    "nombre": "VECTSIC",
+    "url": "https://portales.vector.com.mx/img0/fondos/ProspectoParticularVECTSIC.pdf",
+    "razon_social": {
+      "valor": "VECTOR FONDO SIC, S.A. DE C.V., FONDO DE INVERSIÓN DE RENTA VARIABLE"
+    },
+    "fecha_autorizacion": {
+      "valor": "20190923"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Vector Fondos S.A. De C.V., Sociedad Operadora de Fondos de Inversión",
+      "valor": 80
+    },
+    "horizonte_inversion": {
+      "valor": "mediano plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "NA"
+    },
+    "calificacion_mercado": {
+      "valor": "NA"
+    },
+    "director": {
+      "valor": "Luis Alfredo de Urquijo Hernández"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Especializada en Acciones Internacionales RVESACCINT"
+    },
+    "horario_cierre": {
+      "valor": "Compras: 14:00 - Ventas: 13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "F",
+        "monto_minimo": {
+          "valor": "Por criterios de Servicios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "3.40%"
+        },
+        "comision_fondo": {
+          "valor": "0.1992"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTSICF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "F+",
+        "monto_minimo": {
+          "valor": "Por criterios de Servicios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "3.40%"
+        },
+        "comision_fondo": {
+          "valor": "0.1007"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTSICF+",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M",
+        "monto_minimo": {
+          "valor": "Por criterios de Servicios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "3.40%"
+        },
+        "comision_fondo": {
+          "valor": "0.1992"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTSICM",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "M+",
+        "monto_minimo": {
+          "valor": "Por criterios de Servicios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "3.40%"
+        },
+        "comision_fondo": {
+          "valor": "0.1007"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTSICM+",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X",
+        "monto_minimo": {
+          "valor": "Por criterios de Servicios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "3.40%"
+        },
+        "comision_fondo": {
+          "valor": "0.1992"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTSICX",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "X+",
+        "monto_minimo": {
+          "valor": "Por criterios de Servicios de Inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "3.40%"
+        },
+        "comision_fondo": {
+          "valor": "0.1007"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas Morales no sujetas a retención"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTSICX+",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "XF",
+        "monto_minimo": {
+          "valor": "Sin Monto Mínimo"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "3.40%"
+        },
+        "comision_fondo": {
+          "valor": "0.0021"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondo de Fondos"
+        },
+        "vigente": 1,
+        "clave_BMV": "VECTSICXF",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

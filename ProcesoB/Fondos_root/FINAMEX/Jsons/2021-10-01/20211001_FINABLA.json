@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "FINABLA",
+    "url": "https://www.finamex.com.mx/Admin/Visualizar/Contenido/13754",
+    "razon_social": {
+      "valor": "Fondo Finamex Nabla Asignación Estrategica, S.A. de C.V. Fondo de Inversión de Renta Variable"
+    },
+    "fecha_autorizacion": {
+      "valor": "20210331"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "FINAMEX INVERSIONES, S.A. DE C.V., SOCIEDAD OPERADORA DE FONDOS DE INVERSIÓN",
+      "valor": 22
+    },
+    "horizonte_inversion": {
+      "valor": "Mediano a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No existe"
+    },
+    "calificacion_mercado": {
+      "valor": "N/A"
+    },
+    "director": {
+      "valor": "Luis Alberto Benavides Simón"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "MAYORITARIAMENTE EN VALORES DE DEUDA (RV>D)"
+    },
+    "horario_cierre": {
+      "valor": "14:00 horas (hora del centro de México)"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "Serie sin monto mínimo de inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "1.54"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS MORALES NO CONTRIBUYENTES"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINABLABE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF",
+        "monto_minimo": {
+          "valor": "Serie sin monto mínimo de inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "1.54"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONAS FÍSICAS"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINABLABF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM",
+        "monto_minimo": {
+          "valor": "Serie sin monto mínimo de inversión"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "0.50"
+        },
+        "comision_fondo": {
+          "valor": "1.54"
+        },
+        "posibles_adquirientes": {
+          "valor": "PERSONA MORAL"
+        },
+        "vigente": 1,
+        "clave_BMV": "FINABLABM",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

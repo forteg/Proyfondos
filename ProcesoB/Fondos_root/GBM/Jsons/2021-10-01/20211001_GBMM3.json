@@ -1,0 +1,108 @@
+{
+  "fondo": {
+    "nombre": "GBMM3",
+    "url": "https://www.gbmfondos.com.mx/files/pdf/soluciones/fisicas/prospectos/Prospecto_GBMM3.pdf?v=2633138202317625.5",
+    "razon_social": {
+      "valor": "GBM FONDO PARA PERSONAS MORALES EXENTAS  S.A. DE C.V. SOCIEDAD DE INVERSION EN INSTRUMENTOS DE DEUDA"
+    },
+    "fecha_autorizacion": {
+      "valor": "20170630"
+    },
+    "tipo": {
+      "valor": "sociedad de inversión en instrumentos de deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "GBM Administradora de Activos, S.A. de C.V.,Sociedad Operadora de Fondos de Inversión",
+      "valor": 14
+    },
+    "horizonte_inversion": {
+      "valor": "Corto a largo plazo"
+    },
+    "liquidez": {
+      "valor": "Semanal"
+    },
+    "permanencia": {
+      "valor": "Determinado por la operación del fondo"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/4"
+    },
+    "director": {
+      "valor": "Fernando Castro Tapia"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "Discrecional IDDIS"
+    },
+    "horario_cierre": {
+      "valor": "13:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales exentas"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMM3BE",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BH",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Fondos y cajas de ahorro y por aquellas otras personas morales que las disposiciones legales, reglamentarias o fiscales aplicables determinen como exentas"
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMM3BH",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BP",
+        "monto_minimo": {
+          "valor": "N/A"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N/A"
+        },
+        "comision_fondo": {
+          "valor": "N/A"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales exentas con de intermediación en GBM Grupo Bursátil Mexicano, S.A. de C.V., con saldo mínimo de $100’000,000.00 o con mandato específico para la inversión en esta serie."
+        },
+        "vigente": 1,
+        "clave_BMV": "GBMM3BP",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

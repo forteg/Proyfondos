@@ -1,0 +1,87 @@
+{
+  "fondo": {
+    "nombre": "VLMXLPE",
+    "url": "https://www.valmex.com.mx/sites/default/files/2019-09/operadora_vlmxlpe_prospecto_de_informacion_1.pdf",
+    "razon_social": {
+      "valor": "Fondo Valmex de Largo Plazo Capitales S.A. de C.V., Fondo de Inversión de Renta Variable."
+    },
+    "fecha_autorizacion": {
+      "valor": "20200512"
+    },
+    "tipo": {
+      "valor": "Renta Variable",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Operadora Valmex de Fondos de Inversión, S.A. de C.V.",
+      "valor": 23
+    },
+    "horizonte_inversion": {
+      "valor": "largo plazo"
+    },
+    "liquidez": {
+      "valor": "Diaria"
+    },
+    "permanencia": {
+      "valor": "No hay plazo mínimo"
+    },
+    "calificacion_mercado": {
+      "valor": "No aplica"
+    },
+    "director": {
+      "valor": "Ernesto Diez Sánchez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "DISCRECIONAL (RVDIS)"
+    },
+    "horario_cierre": {
+      "valor": "11:30"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B0CO",
+        "monto_minimo": {
+          "valor": "100 millones de pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.2000"
+        },
+        "posibles_adquirientes": {
+          "valor": "Morales contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "VLMXLPEB0CO",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B0NC",
+        "monto_minimo": {
+          "valor": "100 millones de pesos"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.2764"
+        },
+        "posibles_adquirientes": {
+          "valor": "No contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "VLMXLPEB0NC",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

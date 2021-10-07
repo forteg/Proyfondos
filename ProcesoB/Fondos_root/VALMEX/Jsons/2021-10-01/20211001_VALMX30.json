@@ -1,0 +1,297 @@
+{
+  "fondo": {
+    "nombre": "VALMX30",
+    "url": "https://www.valmex.com.mx/sites/default/files/2019-09/operadora_valmx30_prospecto_de_informacion_2.pdf",
+    "razon_social": {
+      "valor": "FONDO VALMEX XXI, S.A. DE C.V., Fondo de Inversión en instrumentos de Deuda."
+    },
+    "fecha_autorizacion": {
+      "valor": "20190726"
+    },
+    "tipo": {
+      "valor": "Deuda",
+      "id": 100
+    },
+    "administradora": {
+      "nombre": "Operadora Valmex de Fondos de Inversión, S.A. de C.V.",
+      "valor": 23
+    },
+    "horizonte_inversion": {
+      "valor": "corto plazo"
+    },
+    "liquidez": {
+      "valor": "Semanal y diaria, depende del día en que se solicite la venta"
+    },
+    "permanencia": {
+      "valor": "Depende de las políticas de compra y venta"
+    },
+    "calificacion_mercado": {
+      "valor": "AAA/1"
+    },
+    "director": {
+      "valor": "Ernesto Diez Sánchez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "CORTO PLAZO (IDCP)"
+    },
+    "horario_cierre": {
+      "valor": "13:00"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "B0CF",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.3073"
+        },
+        "posibles_adquirientes": {
+          "valor": "Cajas y fondos de ahorro"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B0CF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B0CO",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.2700"
+        },
+        "posibles_adquirientes": {
+          "valor": "Morales contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B0CO",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B0FI",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.3079"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B0FI",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B0NC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.3076"
+        },
+        "posibles_adquirientes": {
+          "valor": "No contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B0NC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B1CF",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9580"
+        },
+        "posibles_adquirientes": {
+          "valor": "Cajas y fondos de ahorro"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B1CF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B1CO",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9579"
+        },
+        "posibles_adquirientes": {
+          "valor": "Morales contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B1CO",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B1FI",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9572"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B1FI",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B1NC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.9581"
+        },
+        "posibles_adquirientes": {
+          "valor": "No contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B1NC",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2CF",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.7700"
+        },
+        "posibles_adquirientes": {
+          "valor": "Cajas y fondos de ahorro"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B2CF",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2CO",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.7700"
+        },
+        "posibles_adquirientes": {
+          "valor": "Morales contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B2CO",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2FI",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.8085"
+        },
+        "posibles_adquirientes": {
+          "valor": "Físicas"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B2FI",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "B2NC",
+        "monto_minimo": {
+          "valor": "No aplica"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "Variable"
+        },
+        "comision_fondo": {
+          "valor": "0.7700"
+        },
+        "posibles_adquirientes": {
+          "valor": "No contribuyentes"
+        },
+        "vigente": 1,
+        "clave_BMV": "VALMX30B2NC",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}

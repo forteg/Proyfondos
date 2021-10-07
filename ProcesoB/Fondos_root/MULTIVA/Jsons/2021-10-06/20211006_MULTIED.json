@@ -1,0 +1,276 @@
+{
+  "fondo": {
+    "nombre": "MULTIED",
+    "url": "https://www.multiva.com.mx/documents/140749/161660682/MULTIED_P.pdf/b296a502-670a-bba7-525b-0fe77625a526?t=1631555397746",
+    "razon_social": {
+      "valor": "Multiva Fondo Estrategia Dólares,  S.A. de C.V. Fondo de Inversión de Renta Variable Fondo de inversión de Renta Variable. (En adelante MULTIED o el FONDO)"
+    },
+    "fecha_autorizacion": {
+      "valor": "20201008"
+    },
+    "tipo": {
+      "valor": "RENTA VARIABLE",
+      "id": 101
+    },
+    "administradora": {
+      "nombre": "Fondos de Inversión Multiva S.A. de C.V. Sociedad Operadora de Fondos de Inversión Grupo",
+      "valor": 9
+    },
+    "horizonte_inversion": {
+      "valor": "corto plazo"
+    },
+    "liquidez": {
+      "valor": "Mensual"
+    },
+    "permanencia": {
+      "valor": "No existe"
+    },
+    "calificacion_mercado": {
+      "valor": "NO APLICA"
+    },
+    "director": {
+      "valor": "Fanny Lorena Rodríguez Gutiérrez"
+    },
+    "vigente": 1,
+    "categoria": {
+      "valor": "(RV>ACC) - Mayoritariamente en renta variable"
+    },
+    "horario_cierre": {
+      "valor": "12:30 Hora del DF"
+    },
+    "campos_faltantes": [],
+    "serie": [
+      {
+        "nombre": "BE-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.53"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención del ISR"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBE-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BE-2",
+        "monto_minimo": {
+          "valor": "$3,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.43"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales no sujetas a retención del ISR"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBE-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.76"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas mexicanas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBF-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-2",
+        "monto_minimo": {
+          "valor": "$500,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.51"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas mexicanas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBF-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-3",
+        "monto_minimo": {
+          "valor": "$2,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.26"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas mexicanas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBF-3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-H",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.25"
+        },
+        "posibles_adquirientes": {
+          "valor": "Empleados, jubilados, directivos o consejeros del grupo empresarial al que éste pertenezca"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBF-H",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BF-T",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.39"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas físicas extranjera"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBF-T",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-1",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.65"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales mexicanas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBM-1",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-2",
+        "monto_minimo": {
+          "valor": "$500,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.43"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales mexicanas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBM-2",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-3",
+        "monto_minimo": {
+          "valor": "$2,000,000.00"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "022"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales mexicanas"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBM-3",
+        "campos_faltantes": []
+      },
+      {
+        "nombre": "BM-T",
+        "monto_minimo": {
+          "valor": "1 acción"
+        },
+        "monto_maximo": {
+          "valor": null
+        },
+        "comision_cliente": {
+          "valor": "N.A."
+        },
+        "comision_fondo": {
+          "valor": "0.33"
+        },
+        "posibles_adquirientes": {
+          "valor": "Personas morales extranjeras"
+        },
+        "vigente": 1,
+        "clave_BMV": "MULTIEDBM-T",
+        "campos_faltantes": []
+      }
+    ]
+  }
+}
